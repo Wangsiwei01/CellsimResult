@@ -1,0 +1,4137 @@
+Interface eth0 has index 2
+Interface eth1 has index 3
+Initialized /home/sw/trace/ReproducingSprout/cleaned_traces/gauss/uplink.pps queue with 30000 services.
+Initialized /home/sw/trace/ReproducingSprout/cleaned_traces/gauss/downlink.pps queue with 350000 services.
+uplink 0 0 / 1500 = 0.0 % 60480 
+downlink 0 0 / 73500 = 0.0 % 0 
+uplink 0.581000 delivery 482
+uplink 0.851000 delivery 752
+uplink 0.912000 delivery 813
+uplink 1.243000 delivery 1144
+uplink 1 6048 / 6048 = 100.0 % 136140 
+downlink 1 0 / 166500 = 0.0 % 0 
+uplink 1.539000 delivery 1440
+uplink 1.559000 delivery 1460
+uplink 1.790000 delivery 1691
+uplink 2.295000 delivery 2196
+uplink 2 6048 / 6048 = 100.0 % 134568 
+downlink 2 0 / 160500 = 0.0 % 0 
+uplink 2.718000 delivery 2619
+uplink 2.861000 delivery 2756
+uplink 2.977000 delivery 2856
+uplink 3.088000 delivery 2961
+uplink 3.390000 delivery 3252
+uplink 3 7560 / 7560 = 100.0 % 134568 
+downlink 3 0 / 148500 = 0.0 % 0 
+uplink 3.605000 delivery 3455
+uplink 3.818000 delivery 3656
+uplink 4.280000 delivery 4107
+uplink 4 4536 / 4536 = 100.0 % 134568 
+downlink 4 0 / 154500 = 0.0 % 0 
+uplink 4.631000 delivery 4448
+uplink 4.688000 delivery 4493
+uplink 4.704000 delivery 4498
+uplink 4.927000 delivery 4710
+uplink 5.099000 delivery 4870
+uplink 5.128000 delivery 4888
+uplink 5 9072 / 9072 = 100.0 % 134568 
+downlink 5 0 / 147000 = 0.0 % 0 
+uplink 5.515000 delivery 5264
+uplink 5.977000 delivery 5715
+uplink 6 3024 / 3024 = 100.0 % 134628 
+downlink 6 0 / 165000 = 0.0 % 0 
+uplink 6.619000 delivery 6346
+uplink 6.798000 delivery 6514
+uplink 7.126000 delivery 6831
+uplink 7.135000 delivery 6828
+uplink 7.276000 delivery 6958
+uplink 7.329000 delivery 7000
+uplink 7 9072 / 9072 = 100.0 % 136080 
+downlink 7 0 / 171000 = 0.0 % 0 
+uplink 7.729000 delivery 7389
+uplink 8.032000 delivery 7680
+downlink 8.103000 delivery 26
+uplink 8.247000 delivery 7884
+uplink 8 4536 / 4536 = 100.0 % 134568 
+downlink 8 60 / 192000 = 0.0 % 60 
+uplink 8.592000 delivery 8218
+uplink 8.670000 delivery 8285
+uplink 8.908000 delivery 8511
+downlink 9.022000 delivery 23
+uplink 9.200000 delivery 8792
+uplink 9.448000 delivery 9029
+uplink 9 7560 / 7560 = 100.0 % 134568 
+downlink 9 60 / 166500 = 0.0 % 60 
+uplink 9.604000 delivery 9174
+uplink 9.855000 delivery 9413
+downlink 10.059000 delivery 36
+uplink 10.301000 delivery 9848
+uplink 10 4536 / 4536 = 100.0 % 134568 
+downlink 10 60 / 156000 = 0.0 % 60 
+uplink 10.701000 delivery 10237
+uplink 11.067000 delivery 10593
+uplink 11.159000 delivery 10673
+downlink 11.285000 delivery 34
+uplink 11 4536 / 4536 = 100.0 % 134568 
+downlink 11 60 / 138000 = 0.0 % 60 
+uplink 11.639000 delivery 11142
+downlink 12.301000 delivery 26
+uplink 12.429000 delivery 11920
+uplink 12 3024 / 3024 = 100.0 % 134568 
+downlink 12 60 / 159000 = 0.0 % 60 
+uplink 12.639000 delivery 12119
+uplink 12.792000 delivery 12261
+uplink 13.192000 delivery 12649
+uplink 13.247000 delivery 12694
+downlink 13.320000 delivery 21
+uplink 13.414000 delivery 12850
+uplink 13 7560 / 7560 = 100.0 % 134568 
+downlink 13 60 / 169500 = 0.0 % 60 
+uplink 13.640000 delivery 13064
+uplink 13.914000 delivery 13327
+downlink 14.364000 delivery 41
+uplink 14 3024 / 3024 = 100.0 % 136080 
+downlink 14 60 / 162000 = 0.0 % 60 
+uplink 14.466000 delivery 13867
+uplink 14.480000 delivery 13869
+uplink 14.872000 delivery 14251
+uplink 14.913000 delivery 14281
+uplink 15.050000 delivery 14407
+uplink 15.061000 delivery 14406
+uplink 15.083000 delivery 14416
+uplink 15.088000 delivery 14410
+uplink 15.265000 delivery 14577
+uplink 15.316000 delivery 14617
+uplink 15.333000 delivery 14623
+downlink 15.380000 delivery 32
+uplink 15 16632 / 16632 = 100.0 % 134568 
+downlink 15 60 / 142500 = 0.0 % 60 
+uplink 15.473000 delivery 14751
+uplink 15.711000 delivery 14978
+uplink 15.897000 delivery 15153
+uplink 16.208000 delivery 15453
+downlink 16.295000 delivery 26
+uplink 16.378000 delivery 15611
+uplink 16 7560 / 7560 = 100.0 % 134568 
+downlink 16 60 / 168000 = 0.0 % 60 
+uplink 16.670000 delivery 15892
+uplink 17.150000 delivery 16360
+uplink 17.354000 delivery 16553
+uplink 17 4536 / 4536 = 100.0 % 134568 
+downlink 17 0 / 174000 = 0.0 % 0 
+uplink 17.589000 delivery 16778
+downlink 17.635000 delivery 35
+uplink 17.695000 delivery 16872
+uplink 17.980000 delivery 17147
+uplink 18.214000 delivery 17368
+uplink 18.217000 delivery 17361
+uplink 18.314000 delivery 17447
+uplink 18 9072 / 9072 = 100.0 % 134568 
+downlink 18 60 / 154500 = 0.0 % 60 
+downlink 18.645000 delivery 21
+uplink 18.792000 delivery 17914
+uplink 19.063000 delivery 18174
+uplink 19 3024 / 3024 = 100.0 % 136080 
+downlink 19 60 / 156000 = 0.0 % 60 
+uplink 19.485000 delivery 18584
+uplink 19.485000 delivery 18573
+uplink 19.502000 delivery 18590
+uplink 19.666000 delivery 18742
+downlink 19.669000 delivery 21
+uplink 19.711000 delivery 18776
+uplink 19.835000 delivery 18888
+uplink 20.001000 delivery 19043
+uplink 20.452000 delivery 19484
+uplink 20 10644 / 10644 = 100.0 % 134568 
+downlink 20 60 / 168000 = 0.0 % 60 
+uplink 20.647000 delivery 19667
+downlink 20.696000 delivery 24
+uplink 20.937000 delivery 19945
+uplink 21.211000 delivery 20208
+uplink 21 4536 / 4536 = 100.0 % 134568 
+downlink 21 60 / 157500 = 0.0 % 60 
+downlink 21.733000 delivery 37
+uplink 21.746000 delivery 20733
+uplink 21.772000 delivery 20748
+uplink 22.323000 delivery 21288
+uplink 22 4536 / 4536 = 100.0 % 134568 
+downlink 22 60 / 165000 = 0.0 % 60 
+uplink 22.572000 delivery 21525
+uplink 22.661000 delivery 21603
+uplink 22.666000 delivery 21597
+uplink 22.702000 delivery 21621
+downlink 22.753000 delivery 32
+uplink 23.451000 delivery 22359
+uplink 23 7560 / 7560 = 100.0 % 134568 
+downlink 23 60 / 144000 = 0.0 % 60 
+downlink 23.781000 delivery 37
+uplink 23.867000 delivery 22764
+uplink 24.386000 delivery 23272
+uplink 24 3024 / 3024 = 100.0 % 134568 
+downlink 24 60 / 163500 = 0.0 % 60 
+uplink 24.636000 delivery 23511
+uplink 24.656000 delivery 23519
+downlink 24.801000 delivery 33
+uplink 24.842000 delivery 23694
+uplink 24.929000 delivery 23769
+uplink 25.152000 delivery 23982
+uplink 25 7560 / 7560 = 100.0 % 136080 
+downlink 25 60 / 171000 = 0.0 % 60 
+uplink 25.471000 delivery 24290
+uplink 25.648000 delivery 24455
+uplink 25.659000 delivery 24455
+downlink 25.826000 delivery 34
+uplink 25.930000 delivery 24714
+uplink 26.065000 delivery 24839
+uplink 26.390000 delivery 25153
+uplink 26.424000 delivery 25175
+uplink 26 10584 / 10584 = 100.0 % 134568 
+downlink 26 60 / 159000 = 0.0 % 60 
+uplink 26.631000 delivery 25371
+downlink 26.840000 delivery 24
+uplink 26.844000 delivery 25570
+uplink 27.269000 delivery 25986
+downlink 27.398000 delivery 22
+downlink 27.398000 delivery 22
+uplink 27 4536 / 4536 = 100.0 % 134568 
+downlink 27 412 / 163500 = 0.3 % 412 
+uplink 27.556000 delivery 26261
+uplink 27.713000 delivery 26408
+uplink 27.723000 delivery 26406
+downlink 27.859000 delivery 20
+uplink 28.002000 delivery 26674
+uplink 28.372000 delivery 27033
+uplink 28 7560 / 7560 = 100.0 % 134628 
+downlink 28 60 / 162000 = 0.0 % 60 
+uplink 28.670000 delivery 27320
+downlink 28.899000 delivery 35
+uplink 28.952000 delivery 27591
+uplink 28.985000 delivery 27613
+uplink 29 4536 / 4536 = 100.0 % 134568 
+downlink 29 60 / 159000 = 0.0 % 60 
+uplink 29.495000 delivery 28112
+uplink 29.648000 delivery 28253
+uplink 29.863000 delivery 28457
+downlink 29.915000 delivery 26
+uplink 30.164000 delivery 28747
+uplink 30.228000 delivery 28800
+uplink 30.439000 delivery 28999
+uplink 30 9072 / 9072 = 100.0 % 134568 
+downlink 30 60 / 130500 = 0.0 % 60 
+uplink 30.593000 delivery 29143
+uplink 30.808000 delivery 29346
+downlink 30.946000 delivery 35
+uplink 31.033000 delivery 29560
+uplink 31.234000 delivery 29750
+uplink 31 6048 / 6048 = 100.0 % 134568 
+downlink 31 60 / 160500 = 0.0 % 60 
+uplink 31.616000 delivery 30120
+uplink 31.717000 delivery 30210
+uplink 31.813000 delivery 30295
+uplink 31.885000 delivery 30356
+downlink 31.956000 delivery 20
+uplink 32.253000 delivery 30713
+uplink 32 7560 / 7560 = 100.0 % 136080 
+downlink 32 60 / 168000 = 0.0 % 60 
+uplink 32.494000 delivery 30942
+uplink 32.910000 delivery 31347
+uplink 32.965000 delivery 31390
+uplink 32.972000 delivery 31386
+downlink 32.991000 delivery 32
+uplink 33.131000 delivery 31534
+uplink 33 7560 / 7560 = 100.0 % 134628 
+downlink 33 60 / 151500 = 0.0 % 60 
+uplink 33.555000 delivery 31947
+uplink 33.760000 delivery 32141
+uplink 33.977000 delivery 32347
+downlink 34.012000 delivery 28
+uplink 34.201000 delivery 32560
+uplink 34.320000 delivery 32667
+uplink 34 7560 / 7560 = 100.0 % 134568 
+downlink 34 60 / 157500 = 0.0 % 60 
+uplink 34.588000 delivery 32924
+uplink 34.836000 delivery 33162
+downlink 35.040000 delivery 32
+uplink 35.199000 delivery 33513
+downlink 35.236000 delivery 24
+uplink 35 4536 / 4536 = 100.0 % 134568 
+downlink 35 120 / 147000 = 0.1 % 120 
+uplink 35.523000 delivery 33826
+uplink 35.530000 delivery 33821
+downlink 36.055000 delivery 24
+uplink 36.094000 delivery 34374
+uplink 36.183000 delivery 34451
+uplink 36.222000 delivery 34480
+uplink 36.235000 delivery 34481
+uplink 36.332000 delivery 34566
+uplink 36 10584 / 10584 = 100.0 % 134568 
+downlink 36 60 / 171000 = 0.0 % 60 
+uplink 36.563000 delivery 34788
+uplink 36.964000 delivery 35177
+uplink 37.075000 delivery 35277
+downlink 37.098000 delivery 43
+uplink 37.119000 delivery 35310
+uplink 37 6048 / 6048 = 100.0 % 134568 
+downlink 37 60 / 148500 = 0.0 % 60 
+uplink 37.545000 delivery 35724
+uplink 37.825000 delivery 35993
+uplink 37.958000 delivery 36115
+downlink 38.101000 delivery 21
+uplink 38.346000 delivery 36492
+uplink 38.353000 delivery 36487
+uplink 38.427000 delivery 36550
+uplink 38 9072 / 9072 = 100.0 % 136080 
+downlink 38 60 / 147000 = 0.0 % 60 
+uplink 38.478000 delivery 36590
+uplink 38.545000 delivery 36646
+uplink 38.565000 delivery 36654
+downlink 39.123000 delivery 20
+uplink 39.137000 delivery 37215
+uplink 39 6048 / 6048 = 100.0 % 134568 
+downlink 39 60 / 169500 = 0.0 % 60 
+uplink 39.584000 delivery 37652
+uplink 39.667000 delivery 37723
+uplink 39.792000 delivery 37837
+uplink 39.922000 delivery 37956
+downlink 40.153000 delivery 24
+uplink 40.234000 delivery 38256
+uplink 40.452000 delivery 38463
+uplink 40 9072 / 9072 = 100.0 % 134568 
+downlink 40 60 / 162000 = 0.0 % 60 
+uplink 40.479000 delivery 38479
+uplink 40.925000 delivery 38914
+uplink 41.067000 delivery 39045
+downlink 41.073000 delivery 24
+uplink 41.168000 delivery 39131
+uplink 41.283000 delivery 39238
+uplink 41 7560 / 7560 = 100.0 % 134568 
+downlink 41 60 / 153000 = 0.0 % 60 
+uplink 41.741000 delivery 39683
+downlink 42.114000 delivery 56
+downlink 42.114000 delivery 56
+uplink 42.225000 delivery 40156
+downlink 42.229000 delivery 21
+uplink 42.393000 delivery 40314
+uplink 42.442000 delivery 40352
+uplink 42 6048 / 6048 = 100.0 % 134568 
+downlink 42 244 / 153000 = 0.2 % 244 
+uplink 42.683000 delivery 40582
+uplink 43.174000 delivery 41061
+downlink 43.226000 delivery 27
+uplink 43 3024 / 3024 = 100.0 % 136080 
+downlink 43 60 / 139500 = 0.0 % 60 
+uplink 43.506000 delivery 41383
+uplink 43.635000 delivery 41500
+uplink 43.797000 delivery 41651
+uplink 43.937000 delivery 41780
+uplink 43.989000 delivery 41820
+downlink 44.144000 delivery 24
+uplink 44.255000 delivery 42075
+uplink 44.357000 delivery 42166
+uplink 44 10584 / 10584 = 100.0 % 134568 
+downlink 44 60 / 159000 = 0.0 % 60 
+uplink 44.475000 delivery 42272
+uplink 44.609000 delivery 42395
+uplink 45.075000 delivery 42851
+downlink 45.267000 delivery 20
+uplink 45.431000 delivery 43195
+uplink 45 6048 / 6048 = 100.0 % 134568 
+downlink 45 60 / 148500 = 0.0 % 60 
+uplink 45.515000 delivery 43268
+uplink 45.639000 delivery 43381
+uplink 45.667000 delivery 43398
+uplink 45.997000 delivery 43716
+uplink 46.222000 delivery 43930
+downlink 46.307000 delivery 36
+uplink 46 7560 / 7560 = 100.0 % 134568 
+downlink 46 60 / 136500 = 0.0 % 60 
+uplink 46.535000 delivery 44232
+uplink 46.708000 delivery 44393
+downlink 47.223000 delivery 30
+uplink 47.231000 delivery 44905
+uplink 47 4536 / 4536 = 100.0 % 134568 
+downlink 47 60 / 163500 = 0.0 % 60 
+uplink 47.617000 delivery 45280
+uplink 47.978000 delivery 45630
+uplink 48.007000 delivery 45648
+uplink 48.028000 delivery 45657
+uplink 48.184000 delivery 45802
+uplink 48.246000 delivery 45853
+uplink 48.316000 delivery 45912
+downlink 48.345000 delivery 26
+uplink 48.369000 delivery 45954
+uplink 48 12096 / 12096 = 100.0 % 134568 
+downlink 48 60 / 172500 = 0.0 % 60 
+uplink 48.526000 delivery 46100
+uplink 48.916000 delivery 46478
+downlink 49.269000 delivery 29
+uplink 49 3024 / 3024 = 100.0 % 136140 
+downlink 49 60 / 165000 = 0.0 % 60 
+uplink 49.628000 delivery 47180
+uplink 50.108000 delivery 47648
+downlink 50.299000 delivery 32
+uplink 50 3024 / 3024 = 100.0 % 134568 
+downlink 50 60 / 151500 = 0.0 % 60 
+uplink 50.505000 delivery 48033
+uplink 50.669000 delivery 48187
+uplink 51.289000 delivery 48795
+downlink 51.419000 delivery 28
+uplink 51 4536 / 4536 = 100.0 % 134568 
+downlink 51 60 / 166500 = 0.0 % 60 
+uplink 51.801000 delivery 49296
+uplink 51.876000 delivery 49360
+uplink 52.203000 delivery 49676
+downlink 52.333000 delivery 21
+uplink 52.450000 delivery 49912
+uplink 52 6048 / 6048 = 100.0 % 134568 
+downlink 52 60 / 153000 = 0.0 % 60 
+uplink 52.767000 delivery 50217
+uplink 53.299000 delivery 50738
+downlink 53.360000 delivery 24
+uplink 53 3024 / 3024 = 100.0 % 134568 
+downlink 53 60 / 177000 = 0.0 % 60 
+uplink 53.679000 delivery 51107
+uplink 53.891000 delivery 51307
+uplink 54 3024 / 3024 = 100.0 % 134568 
+downlink 54 0 / 180000 = 0.0 % 0 
+downlink 54.489000 delivery 25
+uplink 54.794000 delivery 52200
+uplink 55.255000 delivery 52649
+downlink 55.412000 delivery 27
+uplink 55.417000 delivery 52800
+uplink 55 4536 / 4536 = 100.0 % 136080 
+downlink 55 120 / 168000 = 0.1 % 120 
+uplink 55.875000 delivery 53247
+uplink 56.098000 delivery 53458
+uplink 56.142000 delivery 53491
+uplink 56.345000 delivery 53683
+uplink 56.400000 delivery 53727
+uplink 56.411000 delivery 53727
+downlink 56.449000 delivery 41
+uplink 56 9072 / 9072 = 100.0 % 134568 
+downlink 56 60 / 150000 = 0.0 % 60 
+uplink 56.553000 delivery 53858
+uplink 56.981000 delivery 54275
+uplink 56.997000 delivery 54279
+uplink 57.079000 delivery 54349
+uplink 57 6048 / 6048 = 100.0 % 134568 
+downlink 57 0 / 178500 = 0.0 % 352 
+downlink 57.458000 delivery 20
+downlink 57.458000 delivery 20
+uplink 57.531000 delivery 54790
+downlink 57.557000 delivery 22
+uplink 58.319000 delivery 55567
+uplink 58 3024 / 3024 = 100.0 % 134568 
+downlink 58 412 / 163500 = 0.3 % 60 
+downlink 58.478000 delivery 21
+uplink 58.499000 delivery 55736
+downlink 58.531000 delivery 24
+uplink 58.651000 delivery 55877
+uplink 58.816000 delivery 56030
+uplink 59.133000 delivery 56336
+uplink 59.140000 delivery 56333
+uplink 59 7560 / 7560 = 100.0 % 134628 
+downlink 59 120 / 150000 = 0.1 % 120 
+uplink 59.525000 delivery 56706
+downlink 59.525000 delivery 45
+uplink 59.695000 delivery 56865
+uplink 60 3024 / 3024 = 100.0 % 134568 
+downlink 60 60 / 163500 = 0.0 % 60 
+uplink 60.508000 delivery 57666
+downlink 60.630000 delivery 24
+uplink 60.867000 delivery 58015
+uplink 60.993000 delivery 58129
+uplink 61.341000 delivery 58465
+uplink 61 6048 / 6048 = 100.0 % 134568 
+downlink 61 60 / 147000 = 0.0 % 60 
+downlink 61.553000 delivery 25
+uplink 61.619000 delivery 58733
+uplink 62.048000 delivery 59151
+uplink 62.088000 delivery 59179
+uplink 62.193000 delivery 59272
+uplink 62.449000 delivery 59518
+uplink 62 7560 / 7560 = 100.0 % 136080 
+downlink 62 60 / 162000 = 0.0 % 60 
+downlink 62.574000 delivery 22
+uplink 62.603000 delivery 59661
+uplink 62.652000 delivery 59699
+uplink 62.689000 delivery 59724
+uplink 63.080000 delivery 60104
+uplink 63.169000 delivery 60182
+uplink 63.369000 delivery 60370
+uplink 63 9072 / 9072 = 100.0 % 134568 
+downlink 63 60 / 156000 = 0.0 % 60 
+uplink 63.606000 delivery 60596
+downlink 63.618000 delivery 40
+uplink 63.632000 delivery 60611
+uplink 63.645000 delivery 60612
+uplink 63.647000 delivery 60603
+uplink 63.726000 delivery 60672
+uplink 64.042000 delivery 60976
+uplink 64.253000 delivery 61176
+uplink 64.298000 delivery 61210
+uplink 64 12096 / 12096 = 100.0 % 134568 
+downlink 64 60 / 174000 = 0.0 % 60 
+uplink 64.577000 delivery 61476
+downlink 64.639000 delivery 39
+uplink 65.095000 delivery 61984
+uplink 65.374000 delivery 62252
+uplink 65.397000 delivery 62263
+uplink 65 6048 / 6048 = 100.0 % 134568 
+downlink 65 60 / 162000 = 0.0 % 60 
+downlink 65.648000 delivery 24
+uplink 65.745000 delivery 62601
+uplink 66.242000 delivery 63086
+uplink 66 3024 / 3024 = 100.0 % 134568 
+downlink 66 60 / 154500 = 0.0 % 60 
+uplink 66.456000 delivery 63290
+uplink 66.663000 delivery 63485
+downlink 66.668000 delivery 20
+uplink 66.997000 delivery 63807
+uplink 67.067000 delivery 63866
+uplink 67.332000 delivery 64120
+uplink 67 7560 / 7560 = 100.0 % 134568 
+downlink 67 60 / 144000 = 0.0 % 60 
+uplink 67.535000 delivery 64313
+downlink 67.694000 delivery 22
+uplink 67.865000 delivery 64631
+uplink 68 3024 / 3024 = 100.0 % 136080 
+downlink 68 60 / 148500 = 0.0 % 60 
+uplink 68.491000 delivery 65246
+uplink 68.611000 delivery 65355
+downlink 68.722000 delivery 27
+uplink 68.861000 delivery 65593
+uplink 68.871000 delivery 65593
+uplink 69.082000 delivery 65792
+uplink 69.178000 delivery 65877
+uplink 69.328000 delivery 66015
+uplink 69.438000 delivery 66115
+uplink 69 12096 / 12096 = 100.0 % 134568 
+downlink 69 60 / 141000 = 0.0 % 60 
+uplink 69.694000 delivery 66359
+downlink 69.748000 delivery 27
+uplink 70.074000 delivery 66728
+uplink 70.176000 delivery 66818
+uplink 70 4536 / 4536 = 100.0 % 134568 
+downlink 70 60 / 169500 = 0.0 % 60 
+uplink 70.604000 delivery 67236
+uplink 70.750000 delivery 67371
+downlink 70.767000 delivery 24
+uplink 70.785000 delivery 67394
+uplink 71.002000 delivery 67600
+uplink 71.405000 delivery 67992
+uplink 71 7560 / 7560 = 100.0 % 134628 
+downlink 71 60 / 148500 = 0.0 % 60 
+uplink 71.488000 delivery 68063
+downlink 71.788000 delivery 21
+uplink 71.943000 delivery 68507
+uplink 72.273000 delivery 68827
+uplink 72 4536 / 4536 = 100.0 % 134568 
+downlink 72 60 / 159000 = 0.0 % 60 
+downlink 72.822000 delivery 31
+uplink 72.921000 delivery 69463
+uplink 73.004000 delivery 69535
+uplink 73.080000 delivery 69600
+uplink 73.259000 delivery 69767
+uplink 73 6048 / 6048 = 100.0 % 136080 
+downlink 73 60 / 154500 = 0.0 % 60 
+uplink 73.630000 delivery 70127
+uplink 73.685000 delivery 70171
+downlink 73.852000 delivery 37
+uplink 74.066000 delivery 70541
+uplink 74.457000 delivery 70920
+uplink 74 6048 / 6048 = 100.0 % 134568 
+downlink 74 60 / 151500 = 0.0 % 60 
+uplink 74.626000 delivery 71078
+downlink 74.860000 delivery 21
+uplink 75.055000 delivery 71496
+uplink 75.110000 delivery 71540
+uplink 75.285000 delivery 71704
+uplink 75.431000 delivery 71838
+uplink 75 7560 / 7560 = 100.0 % 134568 
+downlink 75 60 / 135000 = 0.0 % 60 
+uplink 75.526000 delivery 71922
+uplink 75.884000 delivery 72269
+downlink 75.893000 delivery 30
+uplink 75.995000 delivery 72366
+uplink 76.315000 delivery 72678
+uplink 76 6048 / 6048 = 100.0 % 134568 
+downlink 76 60 / 166500 = 0.0 % 60 
+uplink 76.775000 delivery 73124
+uplink 76.836000 delivery 73175
+downlink 76.914000 delivery 27
+uplink 77.006000 delivery 73335
+uplink 77.313000 delivery 73631
+uplink 77 6048 / 6048 = 100.0 % 134568 
+downlink 77 60 / 147000 = 0.0 % 60 
+uplink 77.551000 delivery 73857
+uplink 77.778000 delivery 74073
+downlink 77.933000 delivery 20
+uplink 78.177000 delivery 74460
+uplink 78 4536 / 4536 = 100.0 % 134568 
+downlink 78 60 / 163500 = 0.0 % 60 
+uplink 78.472000 delivery 74744
+uplink 78.743000 delivery 75005
+uplink 78.816000 delivery 75066
+downlink 78.971000 delivery 36
+uplink 79.328000 delivery 75567
+uplink 79 6048 / 6048 = 100.0 % 134568 
+downlink 79 60 / 166500 = 0.0 % 60 
+uplink 79.902000 delivery 76130
+downlink 79.984000 delivery 25
+uplink 80.044000 delivery 76261
+uplink 80.067000 delivery 76273
+uplink 80.421000 delivery 76615
+uplink 80 6048 / 6048 = 100.0 % 136080 
+downlink 80 60 / 162000 = 0.0 % 60 
+uplink 80.569000 delivery 76752
+uplink 80.649000 delivery 76820
+downlink 81.007000 delivery 24
+uplink 81.058000 delivery 77219
+uplink 81.289000 delivery 77438
+uplink 81 6048 / 6048 = 100.0 % 134568 
+downlink 81 60 / 166500 = 0.0 % 60 
+uplink 81.623000 delivery 77761
+uplink 81.731000 delivery 77856
+uplink 81.844000 delivery 77960
+uplink 81.882000 delivery 77987
+uplink 81.910000 delivery 78003
+uplink 81.970000 delivery 78052
+downlink 82.030000 delivery 23
+uplink 82.239000 delivery 78310
+uplink 82.269000 delivery 78328
+uplink 82 12096 / 12096 = 100.0 % 134568 
+downlink 82 60 / 160500 = 0.0 % 60 
+uplink 82.608000 delivery 78657
+uplink 82.642000 delivery 78679
+uplink 82.849000 delivery 78874
+uplink 82.893000 delivery 78907
+downlink 83.075000 delivery 42
+uplink 83.378000 delivery 79381
+uplink 83 7560 / 7560 = 100.0 % 134568 
+downlink 83 60 / 156000 = 0.0 % 60 
+uplink 83.700000 delivery 79692
+uplink 83.824000 delivery 79805
+uplink 83.973000 delivery 79943
+uplink 84.021000 delivery 79980
+downlink 84.101000 delivery 46
+uplink 84 6048 / 6048 = 100.0 % 134568 
+downlink 84 60 / 157500 = 0.0 % 60 
+uplink 84.562000 delivery 80510
+uplink 84.957000 delivery 80893
+downlink 85.110000 delivery 31
+uplink 85.394000 delivery 81319
+uplink 85 4536 / 4536 = 100.0 % 136080 
+downlink 85 60 / 166500 = 0.0 % 60 
+uplink 85.938000 delivery 81852
+uplink 85.974000 delivery 81877
+downlink 86.124000 delivery 20
+uplink 86.337000 delivery 82228
+uplink 86 4536 / 4536 = 100.0 % 134628 
+downlink 86 60 / 160500 = 0.0 % 60 
+uplink 86.863000 delivery 82743
+uplink 87.064000 delivery 82933
+downlink 87.160000 delivery 33
+uplink 87.223000 delivery 83080
+uplink 87.282000 delivery 83128
+uplink 87.318000 delivery 83154
+uplink 87 7560 / 7560 = 100.0 % 134568 
+downlink 87 60 / 171000 = 0.0 % 60 
+downlink 87.528000 delivery 23
+downlink 87.528000 delivery 23
+uplink 87.633000 delivery 83457
+uplink 87.746000 delivery 83559
+uplink 88.042000 delivery 83844
+uplink 88.075000 delivery 83866
+downlink 88.173000 delivery 22
+uplink 88.223000 delivery 84002
+uplink 88 7560 / 7560 = 100.0 % 134568 
+downlink 88 412 / 157500 = 0.3 % 412 
+uplink 88.631000 delivery 84399
+uplink 88.754000 delivery 84511
+downlink 89.201000 delivery 26
+uplink 89.335000 delivery 85080
+uplink 89 4536 / 4536 = 100.0 % 134568 
+downlink 89 60 / 151500 = 0.0 % 60 
+uplink 89.681000 delivery 85415
+uplink 90.079000 delivery 85803
+uplink 90.136000 delivery 85848
+uplink 90.136000 delivery 85837
+downlink 90.222000 delivery 23
+uplink 90.256000 delivery 85946
+uplink 90.328000 delivery 86007
+uplink 90.361000 delivery 86028
+uplink 90.435000 delivery 86091
+uplink 90 12096 / 12096 = 100.0 % 134568 
+downlink 90 60 / 157500 = 0.0 % 60 
+uplink 90.569000 delivery 86214
+uplink 90.729000 delivery 86363
+uplink 90.869000 delivery 86491
+downlink 91.253000 delivery 26
+uplink 91.288000 delivery 86899
+uplink 91 6048 / 6048 = 100.0 % 136080 
+downlink 91 60 / 157500 = 0.0 % 60 
+uplink 91.811000 delivery 87410
+uplink 92.199000 delivery 87788
+downlink 92.273000 delivery 26
+uplink 92 3024 / 3024 = 100.0 % 134628 
+downlink 92 60 / 156000 = 0.0 % 60 
+uplink 92.622000 delivery 88199
+uplink 92.898000 delivery 88464
+uplink 93.092000 delivery 88647
+downlink 93.191000 delivery 23
+uplink 93.289000 delivery 88833
+uplink 93 6048 / 6048 = 100.0 % 134568 
+downlink 93 60 / 171000 = 0.0 % 60 
+uplink 93.658000 delivery 89190
+uplink 93.675000 delivery 89196
+uplink 93.986000 delivery 89496
+downlink 94.319000 delivery 23
+uplink 94.367000 delivery 89866
+uplink 94 6048 / 6048 = 100.0 % 134568 
+downlink 94 60 / 163500 = 0.0 % 60 
+uplink 94.601000 delivery 90088
+uplink 95.082000 delivery 90559
+uplink 95.323000 delivery 90788
+downlink 95.339000 delivery 21
+uplink 95 4536 / 4536 = 100.0 % 134568 
+downlink 95 60 / 165000 = 0.0 % 60 
+downlink 95.491000 delivery 35
+uplink 95.587000 delivery 91041
+downlink 96.292000 delivery 52
+uplink 96.439000 delivery 91881
+uplink 96 3024 / 3024 = 100.0 % 134568 
+downlink 96 120 / 163500 = 0.1 % 120 
+uplink 96.567000 delivery 91998
+uplink 96.596000 delivery 92016
+uplink 96.734000 delivery 92144
+uplink 96.806000 delivery 92204
+uplink 96.860000 delivery 92247
+uplink 97.093000 delivery 92468
+uplink 97.266000 delivery 92630
+uplink 97.361000 delivery 92713
+downlink 97.390000 delivery 23
+uplink 97 12096 / 12096 = 100.0 % 136080 
+downlink 97 60 / 162000 = 0.0 % 60 
+uplink 97.643000 delivery 92984
+uplink 97.668000 delivery 92997
+uplink 97.943000 delivery 93262
+downlink 98.428000 delivery 38
+uplink 98 4536 / 4536 = 100.0 % 134568 
+downlink 98 60 / 165000 = 0.0 % 60 
+uplink 98.990000 delivery 94297
+uplink 99.326000 delivery 94621
+uplink 99.326000 delivery 94612
+uplink 99.347000 delivery 94622
+downlink 99.347000 delivery 20
+uplink 99 6048 / 6048 = 100.0 % 134568 
+downlink 99 60 / 183000 = 0.0 % 60 
+uplink 99.679000 delivery 94941
+uplink 99.780000 delivery 95031
+uplink 100.069000 delivery 95310
+uplink 100.205000 delivery 95435
+uplink 100.213000 delivery 95432
+uplink 100 7560 / 7560 = 100.0 % 134568 
+downlink 100 0 / 145500 = 0.0 % 60 
+uplink 100.468000 delivery 95675
+downlink 100.469000 delivery 31
+uplink 100.605000 delivery 95802
+uplink 100.756000 delivery 95941
+uplink 101.368000 delivery 96542
+uplink 101 6048 / 6048 = 100.0 % 134568 
+downlink 101 60 / 154500 = 0.0 % 0 
+downlink 101.488000 delivery 26
+uplink 101.920000 delivery 97083
+uplink 102.064000 delivery 97215
+downlink 102.406000 delivery 22
+uplink 102 3024 / 3024 = 100.0 % 134568 
+downlink 102 120 / 169500 = 0.1 % 120 
+uplink 102.584000 delivery 97724
+uplink 103.233000 delivery 98362
+uplink 103.363000 delivery 98481
+uplink 103 4536 / 4536 = 100.0 % 134568 
+downlink 103 0 / 169500 = 0.0 % 0 
+downlink 103.535000 delivery 25
+uplink 103.670000 delivery 98776
+uplink 103.739000 delivery 98834
+uplink 104.259000 delivery 99343
+uplink 104 4536 / 4536 = 100.0 % 136080 
+downlink 104 60 / 156000 = 0.0 % 60 
+uplink 104.484000 delivery 99557
+downlink 104.570000 delivery 36
+uplink 104.655000 delivery 99717
+uplink 104.772000 delivery 99822
+uplink 105.257000 delivery 100296
+uplink 105.371000 delivery 100399
+uplink 105.419000 delivery 100435
+uplink 105 9072 / 9072 = 100.0 % 134568 
+downlink 105 60 / 150000 = 0.0 % 60 
+downlink 105.483000 delivery 28
+uplink 105.516000 delivery 100521
+uplink 105.711000 delivery 100705
+uplink 105.774000 delivery 100757
+uplink 105.937000 delivery 100909
+uplink 106.014000 delivery 100975
+uplink 106.113000 delivery 101063
+uplink 106 9072 / 9072 = 100.0 % 134568 
+downlink 106 60 / 175500 = 0.0 % 60 
+uplink 106.595000 delivery 101533
+downlink 106.614000 delivery 32
+uplink 106.708000 delivery 101635
+uplink 106.847000 delivery 101763
+uplink 107.131000 delivery 102036
+uplink 107.243000 delivery 102136
+uplink 107.279000 delivery 102161
+uplink 107.450000 delivery 102321
+uplink 107 10584 / 10584 = 100.0 % 134568 
+downlink 107 60 / 153000 = 0.0 % 60 
+downlink 107.538000 delivery 34
+uplink 107.822000 delivery 102681
+uplink 107.865000 delivery 102714
+uplink 107.941000 delivery 102778
+uplink 107.963000 delivery 102789
+uplink 108.046000 delivery 102861
+uplink 108.160000 delivery 102964
+uplink 108.277000 delivery 103070
+uplink 108 10584 / 10584 = 100.0 % 134568 
+downlink 108 60 / 144000 = 0.0 % 60 
+uplink 108.533000 delivery 103314
+downlink 108.551000 delivery 24
+uplink 108.681000 delivery 103451
+uplink 108.747000 delivery 103506
+uplink 109.058000 delivery 103805
+uplink 109.111000 delivery 103847
+uplink 109.248000 delivery 103973
+uplink 109 9072 / 9072 = 100.0 % 136080 
+downlink 109 60 / 135000 = 0.0 % 60 
+uplink 109.470000 delivery 104184
+downlink 109.690000 delivery 35
+uplink 110.286000 delivery 104989
+uplink 110.343000 delivery 105033
+uplink 110 4536 / 4536 = 100.0 % 134568 
+downlink 110 60 / 156000 = 0.0 % 60 
+downlink 110.595000 delivery 20
+uplink 110.670000 delivery 105349
+uplink 111.113000 delivery 105782
+uplink 111.422000 delivery 106080
+uplink 111 4536 / 4536 = 100.0 % 134568 
+downlink 111 60 / 159000 = 0.0 % 60 
+downlink 111.639000 delivery 40
+uplink 111.874000 delivery 106521
+uplink 112.126000 delivery 106762
+uplink 112.382000 delivery 107006
+uplink 112.425000 delivery 107038
+uplink 112 6048 / 6048 = 100.0 % 134568 
+downlink 112 60 / 171000 = 0.0 % 60 
+uplink 112.892000 delivery 107494
+uplink 113.069000 delivery 107659
+uplink 113 3024 / 3024 = 100.0 % 134628 
+downlink 113 0 / 153000 = 0.0 % 0 
+uplink 113.569000 delivery 108148
+uplink 113.626000 delivery 108194
+uplink 113.992000 delivery 108548
+uplink 114 4536 / 4536 = 100.0 % 134568 
+downlink 114 0 / 159000 = 0.0 % 0 
+uplink 114.583000 delivery 109128
+uplink 115.094000 delivery 109629
+uplink 115.126000 delivery 109649
+uplink 115.188000 delivery 109700
+uplink 115 6048 / 6048 = 100.0 % 134568 
+downlink 115 0 / 148500 = 0.0 % 0 
+uplink 115.577000 delivery 110074
+uplink 115.653000 delivery 110140
+uplink 115.720000 delivery 110197
+uplink 116.010000 delivery 110476
+uplink 116.068000 delivery 110524
+uplink 116 7560 / 7560 = 100.0 % 136080 
+downlink 116 0 / 157500 = 0.0 % 0 
+uplink 117.392000 delivery 111837
+uplink 117 1512 / 1512 = 100.0 % 127008 
+downlink 117 0 / 177000 = 0.0 % 0 
+downlink 117.767000 delivery 32
+downlink 117.767000 delivery 32
+uplink 117.867000 delivery 112300
+uplink 118.184000 delivery 112606
+uplink 118.262000 delivery 112673
+uplink 118 4536 / 4536 = 100.0 % 131604 
+downlink 118 352 / 174000 = 0.2 % 352 
+uplink 118.660000 delivery 113060
+uplink 118.805000 delivery 113193
+uplink 119.177000 delivery 113554
+uplink 119.199000 delivery 113565
+uplink 119 6048 / 6048 = 100.0 % 133056 
+downlink 119 0 / 148500 = 0.0 % 0 
+uplink 119.594000 delivery 113948
+uplink 119.668000 delivery 114012
+uplink 119.727000 delivery 114060
+uplink 119.799000 delivery 114120
+uplink 119.892000 delivery 114202
+uplink 119.993000 delivery 114292
+uplink 120.215000 delivery 114503
+uplink 120.356000 delivery 114633
+uplink 120.428000 delivery 114693
+uplink 120 13608 / 13608 = 100.0 % 134568 
+downlink 120 0 / 147000 = 0.0 % 0 
+uplink 120.696000 delivery 114950
+uplink 121.290000 delivery 115533
+uplink 121.405000 delivery 115636
+uplink 121 4536 / 4536 = 100.0 % 134568 
+downlink 121 0 / 163500 = 0.0 % 0 
+uplink 121.822000 delivery 116042
+uplink 122.020000 delivery 116229
+uplink 122.022000 delivery 116219
+uplink 122.439000 delivery 116625
+uplink 122 6048 / 6048 = 100.0 % 136080 
+downlink 122 0 / 151500 = 0.0 % 0 
+uplink 122.472000 delivery 116648
+uplink 122.754000 delivery 116918
+uplink 122.910000 delivery 117063
+uplink 123.051000 delivery 117193
+uplink 123.204000 delivery 117335
+uplink 123.445000 delivery 117564
+uplink 123 9072 / 9072 = 100.0 % 134568 
+downlink 123 0 / 136500 = 0.0 % 0 
+uplink 123.850000 delivery 117958
+uplink 124.254000 delivery 118351
+uplink 124.322000 delivery 118408
+uplink 124 4536 / 4536 = 100.0 % 134568 
+downlink 124 0 / 145500 = 0.0 % 0 
+uplink 124.681000 delivery 118756
+uplink 124.681000 delivery 118756
+uplink 125 1572 / 1572 = 100.0 % 134568 
+downlink 125 0 / 139500 = 0.0 % 0 
+uplink 125.554000 delivery 119617
+uplink 125.866000 delivery 119918
+uplink 126.289000 delivery 120330
+uplink 126.304000 delivery 120334
+uplink 126 6048 / 6048 = 100.0 % 134568 
+downlink 126 0 / 144000 = 0.0 % 0 
+uplink 126.708000 delivery 120727
+uplink 126.963000 delivery 120968
+uplink 127 3024 / 3024 = 100.0 % 134568 
+downlink 127 0 / 141000 = 0.0 % 0 
+uplink 127.505000 delivery 121500
+uplink 127.749000 delivery 121734
+uplink 127.887000 delivery 121860
+uplink 127.943000 delivery 121904
+uplink 128.014000 delivery 121965
+uplink 128.165000 delivery 122105
+uplink 128.347000 delivery 122276
+uplink 128.407000 delivery 122325
+uplink 128 12096 / 12096 = 100.0 % 134568 
+downlink 128 0 / 163500 = 0.0 % 0 
+uplink 128.557000 delivery 122463
+uplink 128.795000 delivery 122690
+uplink 129.363000 delivery 123247
+uplink 129.386000 delivery 123259
+uplink 129 6048 / 6048 = 100.0 % 136080 
+downlink 129 0 / 180000 = 0.0 % 0 
+uplink 129.462000 delivery 123323
+uplink 129.627000 delivery 123477
+uplink 130.432000 delivery 124270
+uplink 130 4536 / 4536 = 100.0 % 134568 
+downlink 130 0 / 171000 = 0.0 % 0 
+uplink 130.589000 delivery 124416
+uplink 130.743000 delivery 124560
+uplink 131.020000 delivery 124825
+uplink 131.373000 delivery 125167
+uplink 131.377000 delivery 125160
+uplink 131 7560 / 7560 = 100.0 % 134568 
+downlink 131 0 / 153000 = 0.0 % 0 
+uplink 131.791000 delivery 125562
+uplink 132.026000 delivery 125786
+uplink 132.294000 delivery 126043
+uplink 132.323000 delivery 126061
+uplink 132 6048 / 6048 = 100.0 % 134568 
+downlink 132 0 / 174000 = 0.0 % 0 
+uplink 132.554000 delivery 126281
+uplink 132.905000 delivery 126621
+uplink 133.061000 delivery 126766
+uplink 133.232000 delivery 126925
+uplink 133.374000 delivery 127056
+uplink 133 7560 / 7560 = 100.0 % 134568 
+downlink 133 0 / 174000 = 0.0 % 0 
+uplink 133.496000 delivery 127167
+uplink 133.618000 delivery 127277
+uplink 133.748000 delivery 127396
+uplink 133.964000 delivery 127601
+uplink 134.122000 delivery 127747
+uplink 134.146000 delivery 127760
+uplink 134 9072 / 9072 = 100.0 % 136080 
+downlink 134 0 / 172500 = 0.0 % 0 
+uplink 134.486000 delivery 128090
+uplink 134.576000 delivery 128169
+uplink 135.030000 delivery 128611
+uplink 135 4536 / 4536 = 100.0 % 134568 
+downlink 135 0 / 165000 = 0.0 % 0 
+uplink 135.695000 delivery 129265
+uplink 135.768000 delivery 129327
+uplink 136.044000 delivery 129592
+uplink 136.070000 delivery 129606
+downlink 136.208000 delivery 34
+uplink 136.256000 delivery 129781
+uplink 136 7560 / 7560 = 100.0 % 134568 
+downlink 136 60 / 169500 = 0.0 % 60 
+uplink 136.638000 delivery 130152
+uplink 136.785000 delivery 130288
+downlink 137.118000 delivery 20
+uplink 137.281000 delivery 130773
+uplink 137.444000 delivery 130923
+uplink 137 6048 / 6048 = 100.0 % 134568 
+downlink 137 60 / 159000 = 0.0 % 60 
+uplink 137.577000 delivery 131045
+uplink 137.867000 delivery 131325
+uplink 138.128000 delivery 131574
+downlink 138.141000 delivery 20
+uplink 138.187000 delivery 131623
+uplink 138.413000 delivery 131838
+uplink 138 7560 / 7560 = 100.0 % 134568 
+downlink 138 60 / 150000 = 0.0 % 60 
+uplink 138.562000 delivery 131975
+uplink 138.674000 delivery 132076
+uplink 138.832000 delivery 132223
+uplink 139.157000 delivery 132536
+downlink 139.186000 delivery 42
+uplink 139.399000 delivery 132767
+uplink 139 7560 / 7560 = 100.0 % 134568 
+downlink 139 60 / 136500 = 0.0 % 60 
+uplink 139.908000 delivery 133265
+downlink 140.189000 delivery 21
+uplink 140.207000 delivery 133552
+uplink 140 3024 / 3024 = 100.0 % 134628 
+downlink 140 60 / 139500 = 0.0 % 60 
+uplink 140.569000 delivery 133904
+uplink 140.798000 delivery 134121
+uplink 141.055000 delivery 134367
+downlink 141.219000 delivery 27
+uplink 141 4536 / 4536 = 100.0 % 136080 
+downlink 141 60 / 144000 = 0.0 % 60 
+uplink 141.610000 delivery 134910
+uplink 141.867000 delivery 135156
+uplink 142.181000 delivery 135459
+downlink 142.351000 delivery 33
+uplink 142 4536 / 4536 = 100.0 % 134568 
+downlink 142 60 / 172500 = 0.0 % 60 
+uplink 142.675000 delivery 135942
+uplink 142.825000 delivery 136081
+uplink 142.936000 delivery 136181
+uplink 143.094000 delivery 136328
+uplink 143.194000 delivery 136416
+downlink 143.272000 delivery 32
+uplink 143.318000 delivery 136529
+uplink 143 9072 / 9072 = 100.0 % 134568 
+downlink 143 60 / 151500 = 0.0 % 60 
+uplink 143.815000 delivery 137015
+uplink 143.872000 delivery 137060
+uplink 144.014000 delivery 137192
+uplink 144.229000 delivery 137396
+downlink 144.285000 delivery 21
+uplink 144 6048 / 6048 = 100.0 % 134568 
+downlink 144 60 / 153000 = 0.0 % 60 
+uplink 144.498000 delivery 137652
+uplink 144.731000 delivery 137874
+uplink 144.948000 delivery 138081
+downlink 145.311000 delivery 23
+uplink 145.345000 delivery 138467
+uplink 145 6048 / 6048 = 100.0 % 134628 
+downlink 145 60 / 153000 = 0.0 % 60 
+uplink 145.478000 delivery 138588
+uplink 146.016000 delivery 139115
+downlink 146.349000 delivery 38
+uplink 146.353000 delivery 139440
+uplink 146 4536 / 4536 = 100.0 % 136080 
+downlink 146 60 / 151500 = 0.0 % 60 
+uplink 146.669000 delivery 139745
+uplink 146.993000 delivery 140057
+uplink 147.117000 delivery 140171
+uplink 147.298000 delivery 140340
+downlink 147.363000 delivery 28
+uplink 147 6048 / 6048 = 100.0 % 134568 
+downlink 147 60 / 163500 = 0.0 % 60 
+uplink 147.561000 delivery 140593
+downlink 147.681000 delivery 42
+downlink 147.681000 delivery 41
+uplink 147.987000 delivery 141007
+uplink 148.009000 delivery 141018
+uplink 148.078000 delivery 141076
+downlink 148.385000 delivery 24
+uplink 148.391000 delivery 141378
+uplink 148.436000 delivery 141412
+uplink 148 9072 / 9072 = 100.0 % 134568 
+downlink 148 412 / 151500 = 0.3 % 412 
+downlink 149.328000 delivery 47
+uplink 149.340000 delivery 142305
+uplink 149 1512 / 1512 = 100.0 % 134568 
+downlink 149 60 / 174000 = 0.0 % 60 
+uplink 149.517000 delivery 142470
+uplink 149.729000 delivery 142671
+uplink 149.886000 delivery 142816
+uplink 149.918000 delivery 142837
+uplink 150.070000 delivery 142978
+uplink 150.073000 delivery 142969
+uplink 150.263000 delivery 143149
+uplink 150.291000 delivery 143165
+downlink 150.333000 delivery 27
+uplink 150 12096 / 12096 = 100.0 % 134568 
+downlink 150 60 / 160500 = 0.0 % 60 
+uplink 150.718000 delivery 143579
+uplink 150.811000 delivery 143663
+uplink 151.180000 delivery 144021
+uplink 151.276000 delivery 144103
+downlink 151.351000 delivery 22
+uplink 151.401000 delivery 144219
+uplink 151.422000 delivery 144229
+uplink 151 9072 / 9072 = 100.0 % 134568 
+downlink 151 60 / 160500 = 0.0 % 60 
+uplink 151.641000 delivery 144437
+uplink 151.797000 delivery 144581
+uplink 152.327000 delivery 145100
+downlink 152.375000 delivery 22
+uplink 152 4536 / 4536 = 100.0 % 136080 
+downlink 152 60 / 165000 = 0.0 % 60 
+uplink 153.372000 delivery 146134
+downlink 153.398000 delivery 21
+uplink 153 1512 / 1512 = 100.0 % 134568 
+downlink 153 60 / 148500 = 0.0 % 60 
+uplink 153.485000 delivery 146237
+uplink 153.725000 delivery 146464
+uplink 153.736000 delivery 146464
+uplink 153.762000 delivery 146479
+uplink 154.125000 delivery 146831
+downlink 154.426000 delivery 25
+uplink 154 7560 / 7560 = 100.0 % 134568 
+downlink 154 60 / 178500 = 0.0 % 60 
+uplink 154.622000 delivery 147316
+uplink 154.872000 delivery 147556
+downlink 155.349000 delivery 26
+uplink 155.401000 delivery 148074
+uplink 155 4536 / 4536 = 100.0 % 134568 
+downlink 155 60 / 168000 = 0.0 % 60 
+uplink 155.454000 delivery 148115
+uplink 155.538000 delivery 148188
+uplink 155.806000 delivery 148445
+uplink 156.024000 delivery 148651
+uplink 156.089000 delivery 148705
+downlink 156.375000 delivery 29
+uplink 156 7560 / 7560 = 100.0 % 134568 
+downlink 156 60 / 154500 = 0.0 % 60 
+uplink 156.608000 delivery 149213
+uplink 156.707000 delivery 149301
+uplink 156.716000 delivery 149299
+uplink 156.766000 delivery 149338
+downlink 157.394000 delivery 23
+uplink 157 6048 / 6048 = 100.0 % 134568 
+downlink 157 60 / 181500 = 0.0 % 60 
+uplink 157.585000 delivery 150146
+uplink 158.171000 delivery 150720
+downlink 158.200000 delivery 27
+uplink 158.201000 delivery 150739
+uplink 158.275000 delivery 150802
+downlink 158.428000 delivery 33
+uplink 158.429000 delivery 150945
+uplink 158.429000 delivery 150933
+uplink 158 9072 / 9072 = 100.0 % 136080 
+downlink 158 120 / 159000 = 0.1 % 120 
+uplink 159.224000 delivery 151717
+downlink 159.341000 delivery 25
+uplink 159 1512 / 1512 = 100.0 % 134568 
+downlink 159 60 / 162000 = 0.0 % 60 
+uplink 159.494000 delivery 151976
+uplink 159.690000 delivery 152161
+uplink 159.764000 delivery 152224
+uplink 160.075000 delivery 152522
+downlink 160.359000 delivery 21
+uplink 160 6048 / 6048 = 100.0 % 134568 
+downlink 160 60 / 139500 = 0.0 % 60 
+uplink 160.574000 delivery 153010
+uplink 160.696000 delivery 153122
+uplink 161.008000 delivery 153423
+uplink 161.213000 delivery 153617
+uplink 161.370000 delivery 153763
+downlink 161.385000 delivery 21
+uplink 161 7560 / 7560 = 100.0 % 134568 
+downlink 161 60 / 162000 = 0.0 % 60 
+uplink 161.519000 delivery 153900
+uplink 161.634000 delivery 154004
+uplink 161.767000 delivery 154126
+uplink 161.846000 delivery 154194
+uplink 161.941000 delivery 154277
+uplink 162.079000 delivery 154404
+uplink 162.365000 delivery 154678
+downlink 162.411000 delivery 23
+uplink 162.423000 delivery 154726
+uplink 162 12096 / 12096 = 100.0 % 134568 
+downlink 162 60 / 160500 = 0.0 % 60 
+uplink 162.571000 delivery 154863
+uplink 162.822000 delivery 155102
+uplink 163.129000 delivery 155398
+uplink 163.150000 delivery 155408
+downlink 163.446000 delivery 25
+uplink 163 6048 / 6048 = 100.0 % 134568 
+downlink 163 60 / 145500 = 0.0 % 60 
+uplink 163.777000 delivery 156024
+uplink 163.903000 delivery 156139
+uplink 163.931000 delivery 156155
+uplink 164.211000 delivery 156423
+downlink 164.354000 delivery 21
+uplink 164 6048 / 6048 = 100.0 % 136080 
+downlink 164 60 / 151500 = 0.0 % 60 
+uplink 164.507000 delivery 156708
+uplink 165.021000 delivery 157212
+uplink 165.164000 delivery 157343
+uplink 165.168000 delivery 157336
+downlink 165.391000 delivery 34
+uplink 165 6048 / 6048 = 100.0 % 134568 
+downlink 165 60 / 163500 = 0.0 % 60 
+uplink 165.536000 delivery 157693
+uplink 165.871000 delivery 158017
+uplink 166.008000 delivery 158143
+downlink 166.439000 delivery 58
+uplink 166 4536 / 4536 = 100.0 % 134568 
+downlink 166 60 / 175500 = 0.0 % 60 
+uplink 166.587000 delivery 158710
+uplink 167.050000 delivery 159162
+uplink 167.123000 delivery 159224
+downlink 167.433000 delivery 28
+uplink 167 4536 / 4536 = 100.0 % 134628 
+downlink 167 60 / 153000 = 0.0 % 60 
+uplink 167.775000 delivery 159865
+uplink 167.860000 delivery 159938
+uplink 168.167000 delivery 160234
+uplink 168.386000 delivery 160442
+uplink 168 6048 / 6048 = 100.0 % 134568 
+downlink 168 0 / 159000 = 0.0 % 60 
+downlink 168.465000 delivery 37
+uplink 168.661000 delivery 160706
+uplink 169.145000 delivery 161178
+uplink 169.235000 delivery 161258
+uplink 169.390000 delivery 161401
+uplink 169.399000 delivery 161398
+uplink 169 7560 / 7560 = 100.0 % 134568 
+downlink 169 60 / 141000 = 0.0 % 60 
+downlink 169.485000 delivery 34
+uplink 169.665000 delivery 161653
+uplink 169.696000 delivery 161673
+uplink 169.699000 delivery 161666
+uplink 169.977000 delivery 161932
+uplink 170.315000 delivery 162259
+downlink 170.396000 delivery 23
+uplink 170.424000 delivery 162357
+uplink 170 9072 / 9072 = 100.0 % 134568 
+downlink 170 120 / 169500 = 0.1 % 60 
+uplink 170.551000 delivery 162473
+uplink 170.717000 delivery 162627
+uplink 170.817000 delivery 162716
+uplink 170.929000 delivery 162816
+uplink 171.356000 delivery 163232
+downlink 171.423000 delivery 24
+uplink 171 7560 / 7560 = 100.0 % 134568 
+downlink 171 60 / 168000 = 0.0 % 60 
+uplink 171.740000 delivery 163605
+uplink 171.752000 delivery 163606
+uplink 172.184000 delivery 164026
+uplink 172.371000 delivery 164203
+downlink 172.447000 delivery 24
+uplink 172 6048 / 6048 = 100.0 % 136140 
+downlink 172 60 / 163500 = 0.0 % 60 
+uplink 172.615000 delivery 164435
+uplink 172.932000 delivery 164741
+uplink 173.270000 delivery 165068
+uplink 173 4536 / 4536 = 100.0 % 134568 
+downlink 173 0 / 175500 = 0.0 % 60 
+downlink 173.474000 delivery 27
+uplink 173.805000 delivery 165592
+uplink 173.956000 delivery 165732
+uplink 174.123000 delivery 165888
+uplink 174.130000 delivery 165883
+uplink 174.137000 delivery 165879
+uplink 174.434000 delivery 166165
+uplink 174 9072 / 9072 = 100.0 % 134568 
+downlink 174 60 / 153000 = 0.0 % 0 
+downlink 174.494000 delivery 23
+uplink 174.667000 delivery 166386
+uplink 175 1512 / 1512 = 100.0 % 134568 
+downlink 175 60 / 166500 = 0.0 % 60 
+downlink 175.521000 delivery 24
+uplink 175.601000 delivery 167309
+uplink 176.336000 delivery 168032
+downlink 176.449000 delivery 35
+uplink 176 3024 / 3024 = 100.0 % 134568 
+downlink 176 120 / 169500 = 0.1 % 120 
+uplink 176.663000 delivery 168348
+uplink 176.757000 delivery 168431
+uplink 177.062000 delivery 168725
+uplink 177 4536 / 4536 = 100.0 % 136080 
+downlink 177 0 / 142500 = 0.0 % 60 
+downlink 177.470000 delivery 32
+uplink 177.484000 delivery 169136
+downlink 177.732000 delivery 29
+downlink 177.732000 delivery 29
+uplink 177.954000 delivery 169595
+uplink 178.212000 delivery 169841
+uplink 178 4536 / 4536 = 100.0 % 134568 
+downlink 178 412 / 154500 = 0.3 % 352 
+downlink 178.492000 delivery 30
+uplink 178.856000 delivery 170474
+uplink 178.942000 delivery 170549
+uplink 179 3024 / 3024 = 100.0 % 134568 
+downlink 179 60 / 157500 = 0.0 % 60 
+downlink 179.513000 delivery 27
+uplink 179.682000 delivery 171278
+uplink 180 1512 / 1512 = 100.0 % 134568 
+downlink 180 60 / 162000 = 0.0 % 60 
+downlink 180.533000 delivery 20
+uplink 180.540000 delivery 172125
+uplink 180.565000 delivery 172139
+uplink 181.057000 delivery 172620
+uplink 181.058000 delivery 172609
+uplink 181.089000 delivery 172628
+uplink 181.222000 delivery 172751
+uplink 181 9072 / 9072 = 100.0 % 134568 
+downlink 181 60 / 168000 = 0.0 % 60 
+downlink 181.560000 delivery 21
+uplink 181.711000 delivery 173225
+uplink 182 1512 / 1512 = 100.0 % 136080 
+downlink 182 60 / 156000 = 0.0 % 60 
+downlink 182.475000 delivery 20
+uplink 182.520000 delivery 174026
+uplink 183.153000 delivery 174645
+uplink 183 3024 / 3024 = 100.0 % 134568 
+downlink 183 60 / 162000 = 0.0 % 60 
+uplink 183.502000 delivery 174986
+downlink 183.523000 delivery 44
+uplink 183.814000 delivery 175286
+uplink 184.045000 delivery 175505
+uplink 184.263000 delivery 175712
+uplink 184.420000 delivery 175859
+uplink 184 7560 / 7560 = 100.0 % 134568 
+downlink 184 60 / 165000 = 0.0 % 60 
+downlink 184.538000 delivery 35
+uplink 184.962000 delivery 176390
+uplink 185.356000 delivery 176773
+uplink 185 3024 / 3024 = 100.0 % 134568 
+downlink 185 60 / 142500 = 0.0 % 60 
+uplink 185.460000 delivery 176865
+downlink 185.549000 delivery 21
+uplink 185.712000 delivery 177106
+uplink 186.233000 delivery 177616
+uplink 186.312000 delivery 177684
+uplink 186 6048 / 6048 = 100.0 % 134568 
+downlink 186 60 / 135000 = 0.0 % 60 
+downlink 186.475000 delivery 24
+uplink 186.551000 delivery 177912
+uplink 186.770000 delivery 178120
+uplink 187.103000 delivery 178441
+uplink 187 4536 / 4536 = 100.0 % 134568 
+downlink 187 60 / 166500 = 0.0 % 60 
+uplink 187.492000 delivery 178819
+downlink 187.497000 delivery 24
+uplink 187.543000 delivery 178859
+uplink 187.829000 delivery 179133
+uplink 188.235000 delivery 179527
+uplink 188.402000 delivery 179684
+uplink 188 7560 / 7560 = 100.0 % 136080 
+downlink 188 60 / 148500 = 0.0 % 60 
+downlink 188.525000 delivery 24
+uplink 188.970000 delivery 180241
+uplink 188.976000 delivery 180236
+uplink 189.018000 delivery 180266
+uplink 189.213000 delivery 180449
+uplink 189.427000 delivery 180653
+uplink 189 7560 / 7560 = 100.0 % 134568 
+downlink 189 60 / 157500 = 0.0 % 120 
+downlink 189.451000 delivery 33
+downlink 189.544000 delivery 23
+downlink 189.544000 delivery 20
+uplink 189.887000 delivery 181102
+uplink 189.910000 delivery 181113
+downlink 190.063000 delivery 30
+uplink 190.115000 delivery 181307
+uplink 190.365000 delivery 181546
+downlink 190.387000 delivery 40
+uplink 190 6048 / 6048 = 100.0 % 134568 
+downlink 190 300 / 156000 = 0.2 % 300 
+downlink 190.462000 delivery 20
+uplink 190.507000 delivery 181677
+downlink 190.570000 delivery 25
+uplink 190.925000 delivery 182084
+downlink 191.089000 delivery 32
+uplink 191.152000 delivery 182300
+downlink 191.188000 delivery 29
+uplink 191.203000 delivery 182339
+uplink 191 6048 / 6048 = 100.0 % 134568 
+downlink 191 240 / 145500 = 0.2 % 180 
+downlink 191.488000 delivery 22
+downlink 191.590000 delivery 21
+downlink 191.603000 delivery 31
+uplink 191.652000 delivery 182777
+uplink 191.833000 delivery 182946
+uplink 192.049000 delivery 183152
+downlink 192.105000 delivery 24
+downlink 192.213000 delivery 26
+uplink 192 4536 / 4536 = 100.0 % 134568 
+downlink 192 300 / 165000 = 0.2 % 300 
+uplink 192.457000 delivery 183549
+downlink 192.512000 delivery 22
+downlink 192.520000 delivery 26
+downlink 192.617000 delivery 24
+uplink 192.824000 delivery 183904
+uplink 193.108000 delivery 184177
+downlink 193.143000 delivery 38
+downlink 193.230000 delivery 23
+uplink 193.344000 delivery 184402
+downlink 193.441000 delivery 29
+uplink 193 6048 / 6048 = 100.0 % 134568 
+downlink 193 360 / 174000 = 0.2 % 360 
+downlink 193.553000 delivery 39
+downlink 193.553000 delivery 26
+uplink 193.676000 delivery 184722
+uplink 193.820000 delivery 184856
+uplink 193.871000 delivery 184895
+uplink 194.112000 delivery 185125
+uplink 194.136000 delivery 185137
+downlink 194.166000 delivery 35
+downlink 194.259000 delivery 28
+uplink 194 7560 / 7560 = 100.0 % 134628 
+downlink 194 240 / 148500 = 0.2 % 240 
+uplink 194.470000 delivery 185460
+downlink 194.564000 delivery 26
+uplink 194.620000 delivery 185599
+uplink 194.883000 delivery 185851
+uplink 195.175000 delivery 186131
+uplink 195.213000 delivery 186158
+downlink 195.278000 delivery 21
+uplink 195.383000 delivery 186318
+uplink 195 9072 / 9072 = 100.0 % 136080 
+downlink 195 120 / 154500 = 0.1 % 120 
+uplink 195.589000 delivery 186513
+downlink 195.603000 delivery 41
+uplink 196.183000 delivery 187095
+uplink 196.240000 delivery 187141
+uplink 196.417000 delivery 187306
+uplink 196 6048 / 6048 = 100.0 % 134568 
+downlink 196 60 / 166500 = 0.0 % 60 
+downlink 196.610000 delivery 24
+uplink 196.686000 delivery 187564
+uplink 196.886000 delivery 187753
+downlink 197.041000 delivery 20
+uplink 197.232000 delivery 188088
+uplink 197.255000 delivery 188100
+uplink 197.310000 delivery 188143
+uplink 197.342000 delivery 188164
+uplink 197 9072 / 9072 = 100.0 % 134568 
+downlink 197 120 / 166500 = 0.1 % 120 
+uplink 197.454000 delivery 188264
+downlink 197.532000 delivery 24
+downlink 197.841000 delivery 25
+downlink 197.852000 delivery 30
+uplink 198.002000 delivery 188802
+uplink 198.114000 delivery 188903
+uplink 198.286000 delivery 189064
+uplink 198.401000 delivery 189167
+uplink 198.426000 delivery 189181
+uplink 198 9072 / 9072 = 100.0 % 134568 
+downlink 198 395 / 159000 = 0.2 % 395 
+downlink 198.558000 delivery 23
+uplink 198.587000 delivery 189331
+uplink 198.932000 delivery 189665
+uplink 198.955000 delivery 189676
+uplink 199.062000 delivery 189772
+uplink 199 6048 / 6048 = 100.0 % 134628 
+downlink 199 60 / 171000 = 0.0 % 60 
+uplink 199.554000 delivery 190253
+uplink 199.637000 delivery 190324
+uplink 199.738000 delivery 190414
+uplink 200.300000 delivery 190965
+uplink 200 6048 / 6048 = 100.0 % 136080 
+downlink 200 0 / 154500 = 0.0 % 0 
+uplink 201.023000 delivery 191677
+uplink 201.338000 delivery 191980
+uplink 201.445000 delivery 192076
+uplink 201 4536 / 4536 = 100.0 % 134568 
+downlink 201 0 / 184500 = 0.0 % 0 
+uplink 201.799000 delivery 192419
+uplink 201.884000 delivery 192493
+uplink 202.126000 delivery 192724
+uplink 202.182000 delivery 192769
+uplink 202.218000 delivery 192794
+uplink 202.308000 delivery 192872
+uplink 202 9072 / 9072 = 100.0 % 134568 
+downlink 202 0 / 162000 = 0.0 % 0 
+uplink 202.556000 delivery 193109
+uplink 202.616000 delivery 193158
+uplink 202.885000 delivery 193415
+uplink 202.992000 delivery 193509
+uplink 203.268000 delivery 193775
+uplink 203.449000 delivery 193942
+downlink 203 0 / 166500 = 0.0 % 0 
+uplink 203 9072 / 9072 = 100.0 % 134568 
+uplink 203.747000 delivery 194233
+uplink 203.961000 delivery 194436
+uplink 204.230000 delivery 194693
+uplink 204 4536 / 4536 = 100.0 % 134568 
+downlink 204 0 / 162000 = 0.0 % 0 
+uplink 204.521000 delivery 194973
+uplink 204.575000 delivery 195016
+uplink 204.876000 delivery 195306
+uplink 205 4536 / 4536 = 100.0 % 134568 
+downlink 205 0 / 159000 = 0.0 % 0 
+uplink 205.458000 delivery 195877
+uplink 205.675000 delivery 196082
+uplink 205.913000 delivery 196309
+uplink 205.981000 delivery 196365
+uplink 206.407000 delivery 196781
+uplink 206 7560 / 7560 = 100.0 % 134568 
+downlink 206 0 / 172500 = 0.0 % 0 
+uplink 206.734000 delivery 197096
+uplink 207.177000 delivery 197528
+uplink 207.332000 delivery 197671
+uplink 207 4536 / 4536 = 100.0 % 136080 
+downlink 207 0 / 156000 = 0.0 % 0 
+uplink 207.655000 delivery 197980
+uplink 207.657000 delivery 197974
+uplink 207.761000 delivery 198067
+downlink 207.786000 delivery 25
+downlink 207.786000 delivery 24
+uplink 208.354000 delivery 198649
+uplink 208 6048 / 6048 = 100.0 % 134568 
+downlink 208 352 / 169500 = 0.2 % 352 
+uplink 208.467000 delivery 198751
+uplink 208.467000 delivery 198740
+uplink 208.483000 delivery 198745
+uplink 208.701000 delivery 198951
+uplink 209.095000 delivery 199334
+uplink 209.250000 delivery 199477
+uplink 209.449000 delivery 199665
+uplink 209 10584 / 10584 = 100.0 % 134568 
+downlink 209 0 / 160500 = 0.0 % 0 
+uplink 209.575000 delivery 199780
+uplink 209.610000 delivery 199804
+uplink 209.901000 delivery 200084
+uplink 210.017000 delivery 200189
+uplink 210.333000 delivery 200494
+uplink 210.381000 delivery 200530
+uplink 210 9072 / 9072 = 100.0 % 134568 
+downlink 210 0 / 174000 = 0.0 % 0 
+uplink 210.697000 delivery 200835
+uplink 210.724000 delivery 200851
+uplink 210.753000 delivery 200869
+uplink 210.805000 delivery 200910
+uplink 211.114000 delivery 201207
+uplink 211.315000 delivery 201397
+uplink 211.452000 delivery 201523
+uplink 211 10584 / 10584 = 100.0 % 134568 
+downlink 211 0 / 168000 = 0.0 % 0 
+uplink 211.691000 delivery 201749
+uplink 211.926000 delivery 201973
+uplink 212.182000 delivery 202219
+downlink 212 0 / 163500 = 0.0 % 0 
+uplink 212 4536 / 4536 = 100.0 % 134568 
+uplink 212.951000 delivery 202977
+uplink 212.995000 delivery 203010
+uplink 213.126000 delivery 203130
+uplink 213.454000 delivery 203446
+uplink 213 6048 / 6048 = 100.0 % 136080 
+downlink 213 0 / 156000 = 0.0 % 0 
+uplink 214.327000 delivery 204308
+uplink 214.438000 delivery 204408
+uplink 214 3024 / 3024 = 100.0 % 134568 
+downlink 214 0 / 142500 = 0.0 % 0 
+uplink 214.500000 delivery 204458
+uplink 214.563000 delivery 204510
+uplink 214.930000 delivery 204866
+uplink 214.993000 delivery 204917
+uplink 215.387000 delivery 205301
+uplink 215 7560 / 7560 = 100.0 % 134568 
+downlink 215 0 / 174000 = 0.0 % 0 
+uplink 215.538000 delivery 205440
+uplink 215.564000 delivery 205456
+uplink 215.572000 delivery 205451
+uplink 215.690000 delivery 205558
+uplink 216.076000 delivery 205934
+uplink 216.138000 delivery 205984
+uplink 216.186000 delivery 206021
+uplink 216 10584 / 10584 = 100.0 % 134568 
+downlink 216 0 / 139500 = 0.0 % 0 
+uplink 216.840000 delivery 206664
+uplink 217.022000 delivery 206835
+uplink 217.253000 delivery 207054
+uplink 217.374000 delivery 207164
+uplink 217 6048 / 6048 = 100.0 % 134568 
+downlink 217 0 / 148500 = 0.0 % 0 
+uplink 217.462000 delivery 207242
+uplink 217.612000 delivery 207380
+uplink 217.877000 delivery 207633
+uplink 217.989000 delivery 207734
+uplink 218.090000 delivery 207824
+uplink 218 7560 / 7560 = 100.0 % 134568 
+downlink 218 0 / 157500 = 0.0 % 0 
+uplink 218.460000 delivery 208183
+uplink 218.765000 delivery 208477
+uplink 219.028000 delivery 208729
+uplink 219 4536 / 4536 = 100.0 % 136080 
+downlink 219 0 / 171000 = 0.0 % 0 
+uplink 219.467000 delivery 209157
+uplink 219.522000 delivery 209200
+uplink 219.735000 delivery 209402
+uplink 220.034000 delivery 209690
+uplink 220.353000 delivery 209998
+uplink 220.408000 delivery 210042
+uplink 220 9072 / 9072 = 100.0 % 134568 
+downlink 220 0 / 150000 = 0.0 % 0 
+uplink 220.709000 delivery 210332
+uplink 220.764000 delivery 210375
+uplink 221.241000 delivery 210841
+uplink 221 4536 / 4536 = 100.0 % 134628 
+downlink 221 0 / 165000 = 0.0 % 0 
+uplink 221.499000 delivery 211087
+uplink 221.611000 delivery 211188
+uplink 222.070000 delivery 211636
+uplink 222.095000 delivery 211650
+uplink 222.290000 delivery 211834
+uplink 222 7560 / 7560 = 100.0 % 134568 
+downlink 222 0 / 169500 = 0.0 % 0 
+uplink 222.609000 delivery 212141
+uplink 222.756000 delivery 212277
+uplink 223.012000 delivery 212522
+uplink 223.281000 delivery 212780
+uplink 223.330000 delivery 212818
+uplink 223.433000 delivery 212909
+uplink 223 9072 / 9072 = 100.0 % 134568 
+downlink 223 0 / 153000 = 0.0 % 0 
+uplink 223.618000 delivery 213084
+uplink 224.018000 delivery 213472
+uplink 224.112000 delivery 213555
+uplink 224.132000 delivery 213564
+uplink 224.306000 delivery 213726
+uplink 224 7560 / 7560 = 100.0 % 136080 
+downlink 224 0 / 156000 = 0.0 % 0 
+uplink 224.624000 delivery 214032
+uplink 224.887000 delivery 214285
+uplink 224.910000 delivery 214297
+uplink 225.093000 delivery 214469
+uplink 225.122000 delivery 214486
+uplink 225.232000 delivery 214585
+uplink 225.437000 delivery 214779
+uplink 225 10584 / 10584 = 100.0 % 134568 
+downlink 225 0 / 142500 = 0.0 % 0 
+uplink 225.785000 delivery 215116
+uplink 225.837000 delivery 215157
+uplink 225.983000 delivery 215291
+uplink 226.188000 delivery 215485
+uplink 226.342000 delivery 215628
+uplink 226.436000 delivery 215710
+uplink 226.438000 delivery 215701
+uplink 226 10584 / 10584 = 100.0 % 134628 
+downlink 226 0 / 160500 = 0.0 % 0 
+uplink 226.748000 delivery 216000
+uplink 226.993000 delivery 216234
+uplink 227.124000 delivery 216353
+uplink 227 4536 / 4536 = 100.0 % 134568 
+downlink 227 0 / 147000 = 0.0 % 0 
+uplink 227.494000 delivery 216713
+uplink 227.742000 delivery 216950
+uplink 228.218000 delivery 217414
+uplink 228.342000 delivery 217527
+uplink 228.439000 delivery 217613
+uplink 228 7560 / 7560 = 100.0 % 134568 
+downlink 228 0 / 157500 = 0.0 % 0 
+uplink 228.792000 delivery 217954
+uplink 228.966000 delivery 218118
+uplink 229.188000 delivery 218328
+uplink 229 4536 / 4536 = 100.0 % 134568 
+downlink 229 0 / 154500 = 0.0 % 0 
+uplink 229.452000 delivery 218581
+uplink 229.631000 delivery 218748
+uplink 229.732000 delivery 218838
+uplink 229.877000 delivery 218972
+uplink 229.930000 delivery 219007
+uplink 230.388000 delivery 219461
+uplink 230 9072 / 9072 = 100.0 % 134568 
+downlink 230 0 / 151500 = 0.0 % 0 
+uplink 230.454000 delivery 219513
+uplink 230.690000 delivery 219740
+uplink 230.991000 delivery 220030
+uplink 231.228000 delivery 220254
+uplink 231 6048 / 6048 = 100.0 % 136080 
+downlink 231 0 / 157500 = 0.0 % 0 
+uplink 231.522000 delivery 220538
+uplink 231.708000 delivery 220713
+uplink 231.862000 delivery 220856
+uplink 232.208000 delivery 221191
+uplink 232.210000 delivery 221182
+uplink 232.345000 delivery 221306
+uplink 232 9072 / 9072 = 100.0 % 134568 
+downlink 232 0 / 156000 = 0.0 % 0 
+uplink 232.643000 delivery 221593
+uplink 232.809000 delivery 221747
+uplink 232.913000 delivery 221840
+uplink 233.009000 delivery 221925
+uplink 233 6048 / 6048 = 100.0 % 134568 
+downlink 233 0 / 147000 = 0.0 % 0 
+uplink 233.535000 delivery 222438
+uplink 233.680000 delivery 222573
+uplink 233.920000 delivery 222802
+uplink 233.990000 delivery 222860
+uplink 234.040000 delivery 222899
+uplink 234.177000 delivery 223025
+uplink 234.226000 delivery 223063
+uplink 234 10584 / 10584 = 100.0 % 134568 
+downlink 234 0 / 174000 = 0.0 % 0 
+uplink 234.478000 delivery 223303
+uplink 234.559000 delivery 223373
+uplink 235.010000 delivery 223814
+uplink 235.160000 delivery 223952
+downlink 235.336000 delivery 37
+uplink 235.401000 delivery 224182
+uplink 235 7560 / 7560 = 100.0 % 134568 
+downlink 235 60 / 184500 = 0.0 % 60 
+uplink 235.872000 delivery 224642
+uplink 236.121000 delivery 224880
+uplink 236 3024 / 3024 = 100.0 % 134568 
+downlink 236 0 / 160500 = 0.0 % 0 
+uplink 236.773000 delivery 225520
+uplink 236.911000 delivery 225647
+uplink 237.101000 delivery 225826
+uplink 237.129000 delivery 225843
+uplink 237.292000 delivery 225995
+uplink 237 7560 / 7560 = 100.0 % 136080 
+downlink 237 0 / 168000 = 0.0 % 0 
+uplink 237.543000 delivery 226235
+uplink 237.579000 delivery 226259
+uplink 237.695000 delivery 226364
+downlink 237.842000 delivery 25
+downlink 237.842000 delivery 25
+uplink 237.974000 delivery 226631
+uplink 238.039000 delivery 226686
+uplink 238.040000 delivery 226676
+uplink 238.416000 delivery 227040
+uplink 238 10584 / 10584 = 100.0 % 134568 
+downlink 238 352 / 160500 = 0.2 % 352 
+uplink 238.679000 delivery 227292
+uplink 239.203000 delivery 227805
+uplink 239 3024 / 3024 = 100.0 % 134568 
+downlink 239 0 / 156000 = 0.0 % 0 
+uplink 239.650000 delivery 228240
+uplink 239.657000 delivery 228236
+uplink 239.691000 delivery 228259
+uplink 239.744000 delivery 228301
+uplink 240.171000 delivery 228716
+uplink 240.238000 delivery 228772
+uplink 240 9072 / 9072 = 100.0 % 134568 
+downlink 240 0 / 177000 = 0.0 % 0 
+uplink 240.610000 delivery 229133
+uplink 240.926000 delivery 229438
+uplink 241.065000 delivery 229566
+uplink 241.098000 delivery 229587
+uplink 241.359000 delivery 229837
+uplink 241 7560 / 7560 = 100.0 % 134568 
+downlink 241 0 / 141000 = 0.0 % 0 
+uplink 241.964000 delivery 230431
+uplink 242.193000 delivery 230649
+uplink 242.202000 delivery 230646
+uplink 242.379000 delivery 230812
+uplink 242.445000 delivery 230867
+uplink 242 7560 / 7560 = 100.0 % 134568 
+downlink 242 0 / 162000 = 0.0 % 0 
+uplink 242.612000 delivery 231023
+uplink 242.758000 delivery 231157
+uplink 243.074000 delivery 231462
+uplink 243.213000 delivery 231591
+uplink 243.275000 delivery 231641
+uplink 243 7560 / 7560 = 100.0 % 136080 
+downlink 243 0 / 162000 = 0.0 % 0 
+uplink 243.935000 delivery 232290
+uplink 244.071000 delivery 232415
+uplink 244.293000 delivery 232626
+uplink 244 4536 / 4536 = 100.0 % 134568 
+downlink 244 0 / 151500 = 0.0 % 0 
+uplink 244.797000 delivery 233118
+uplink 244.941000 delivery 233250
+uplink 245.095000 delivery 233393
+uplink 245.351000 delivery 233638
+uplink 245 6048 / 6048 = 100.0 % 134568 
+downlink 245 0 / 151500 = 0.0 % 0 
+uplink 245.551000 delivery 233826
+uplink 245.691000 delivery 233956
+uplink 245.707000 delivery 233961
+uplink 246.062000 delivery 234305
+uplink 246.374000 delivery 234606
+uplink 246 7560 / 7560 = 100.0 % 134568 
+downlink 246 0 / 163500 = 0.0 % 0 
+uplink 246.892000 delivery 235113
+uplink 247.160000 delivery 235369
+uplink 247 3024 / 3024 = 100.0 % 134568 
+downlink 247 0 / 172500 = 0.0 % 0 
+uplink 247.512000 delivery 235710
+uplink 247.699000 delivery 235885
+uplink 247.918000 delivery 236093
+uplink 248.267000 delivery 236431
+uplink 248 6048 / 6048 = 100.0 % 136080 
+downlink 248 0 / 169500 = 0.0 % 0 
+uplink 248.549000 delivery 236702
+uplink 248.599000 delivery 236741
+uplink 248.837000 delivery 236967
+uplink 249 4536 / 4536 = 100.0 % 134568 
+downlink 249 0 / 154500 = 0.0 % 0 
+uplink 249.530000 delivery 237648
+uplink 250.066000 delivery 238174
+uplink 250.143000 delivery 238240
+uplink 250.313000 delivery 238399
+uplink 250 6048 / 6048 = 100.0 % 134568 
+downlink 250 0 / 171000 = 0.0 % 0 
+uplink 250.525000 delivery 238600
+uplink 250.973000 delivery 239037
+uplink 251 3024 / 3024 = 100.0 % 134628 
+downlink 251 0 / 159000 = 0.0 % 0 
+uplink 251.552000 delivery 239604
+uplink 252.099000 delivery 240140
+uplink 252.172000 delivery 240202
+uplink 252.327000 delivery 240346
+uplink 252 6048 / 6048 = 100.0 % 134568 
+downlink 252 0 / 169500 = 0.0 % 0 
+uplink 252.624000 delivery 240631
+uplink 253.109000 delivery 241105
+uplink 253 3024 / 3024 = 100.0 % 134568 
+downlink 253 0 / 156000 = 0.0 % 0 
+uplink 253.487000 delivery 241472
+uplink 253.588000 delivery 241561
+uplink 253.880000 delivery 241843
+uplink 253.988000 delivery 241939
+uplink 254 6048 / 6048 = 100.0 % 136080 
+downlink 254 0 / 163500 = 0.0 % 0 
+uplink 254.558000 delivery 242498
+uplink 254.799000 delivery 242728
+uplink 254.890000 delivery 242808
+uplink 255.252000 delivery 243158
+uplink 255 6048 / 6048 = 100.0 % 134568 
+downlink 255 0 / 151500 = 0.0 % 0 
+uplink 255.679000 delivery 243574
+uplink 256.162000 delivery 244046
+uplink 256.239000 delivery 244111
+uplink 256 4536 / 4536 = 100.0 % 134628 
+downlink 256 0 / 172500 = 0.0 % 0 
+uplink 256.526000 delivery 244388
+uplink 256.627000 delivery 244478
+uplink 256.814000 delivery 244653
+uplink 257.021000 delivery 244849
+uplink 257.368000 delivery 245185
+uplink 257 7560 / 7560 = 100.0 % 134568 
+downlink 257 0 / 166500 = 0.0 % 0 
+uplink 257.536000 delivery 245341
+uplink 257.587000 delivery 245381
+uplink 257.868000 delivery 245651
+uplink 258.173000 delivery 245945
+uplink 258.394000 delivery 246155
+uplink 258.450000 delivery 246199
+uplink 258 9072 / 9072 = 100.0 % 134568 
+downlink 258 0 / 160500 = 0.0 % 0 
+uplink 258.501000 delivery 246239
+downlink 258.654000 delivery 34
+uplink 258.718000 delivery 246445
+uplink 259.097000 delivery 246807
+uplink 259.110000 delivery 246814
+uplink 259 6048 / 6048 = 100.0 % 134568 
+downlink 259 60 / 159000 = 0.0 % 60 
+uplink 259.471000 delivery 247164
+uplink 259.760000 delivery 247442
+uplink 259.802000 delivery 247473
+uplink 259.816000 delivery 247474
+uplink 259.917000 delivery 247566
+uplink 259.920000 delivery 247557
+uplink 259.974000 delivery 247600
+uplink 260.177000 delivery 247792
+uplink 260.302000 delivery 247906
+uplink 260 13608 / 13608 = 100.0 % 136080 
+downlink 260 0 / 132000 = 0.0 % 0 
+uplink 260.514000 delivery 248106
+uplink 260.910000 delivery 248491
+uplink 261.416000 delivery 248986
+uplink 261 4536 / 4536 = 100.0 % 134568 
+downlink 261 0 / 178500 = 0.0 % 0 
+uplink 261.928000 delivery 249486
+uplink 262.276000 delivery 249824
+uplink 262 3024 / 3024 = 100.0 % 134568 
+downlink 262 0 / 165000 = 0.0 % 0 
+uplink 262.631000 delivery 250167
+uplink 263.352000 delivery 250877
+uplink 263 3024 / 3024 = 100.0 % 134568 
+downlink 263 0 / 144000 = 0.0 % 0 
+uplink 263.525000 delivery 251039
+uplink 263.971000 delivery 251473
+uplink 264.088000 delivery 251579
+downlink 264.090000 delivery 25
+uplink 264.226000 delivery 251706
+uplink 264.318000 delivery 251787
+uplink 264 7560 / 7560 = 100.0 % 134568 
+downlink 264 60 / 166500 = 0.0 % 60 
+uplink 264.480000 delivery 251938
+uplink 264.626000 delivery 252073
+uplink 264.770000 delivery 252205
+uplink 264.775000 delivery 252199
+uplink 265.106000 delivery 252519
+uplink 265.211000 delivery 252612
+uplink 265 9072 / 9072 = 100.0 % 134568 
+downlink 265 0 / 151500 = 0.0 % 0 
+uplink 265.480000 delivery 252871
+uplink 265.834000 delivery 253214
+uplink 265.947000 delivery 253314
+uplink 266.109000 delivery 253465
+uplink 266.420000 delivery 253766
+uplink 266 7560 / 7560 = 100.0 % 134568 
+downlink 266 0 / 150000 = 0.0 % 0 
+uplink 266.998000 delivery 254333
+uplink 267.043000 delivery 254367
+uplink 267.172000 delivery 254484
+uplink 267.371000 delivery 254672
+uplink 267 6048 / 6048 = 100.0 % 136080 
+downlink 267 0 / 138000 = 0.0 % 0 
+uplink 267.629000 delivery 254918
+downlink 267.910000 delivery 32
+downlink 267.910000 delivery 31
+uplink 268.026000 delivery 255304
+uplink 268.181000 delivery 255447
+uplink 268 4536 / 4536 = 100.0 % 134568 
+downlink 268 352 / 156000 = 0.2 % 352 
+uplink 268.745000 delivery 256000
+uplink 269.305000 delivery 256549
+uplink 269 3024 / 3024 = 100.0 % 134568 
+downlink 269 0 / 148500 = 0.0 % 0 
+uplink 269.661000 delivery 256894
+uplink 270.029000 delivery 257251
+uplink 270.362000 delivery 257573
+uplink 270 4536 / 4536 = 100.0 % 134568 
+downlink 270 0 / 175500 = 0.0 % 0 
+uplink 270.493000 delivery 257693
+uplink 270.802000 delivery 257991
+uplink 271.262000 delivery 258440
+uplink 271.369000 delivery 258535
+uplink 271.430000 delivery 258585
+uplink 271 7560 / 7560 = 100.0 % 134568 
+downlink 271 0 / 163500 = 0.0 % 0 
+uplink 271.507000 delivery 258650
+uplink 271.678000 delivery 258810
+uplink 271.685000 delivery 258806
+uplink 271.960000 delivery 259070
+uplink 272.091000 delivery 259189
+uplink 272 7560 / 7560 = 100.0 % 134568 
+downlink 272 0 / 151500 = 0.0 % 0 
+uplink 272.668000 delivery 259755
+uplink 272.692000 delivery 259769
+uplink 272.908000 delivery 259973
+uplink 273.394000 delivery 260448
+uplink 273 6048 / 6048 = 100.0 % 136080 
+downlink 273 0 / 151500 = 0.0 % 0 
+uplink 273.729000 delivery 260772
+uplink 273.855000 delivery 260886
+uplink 273.877000 delivery 260897
+uplink 273.920000 delivery 260929
+uplink 274.263000 delivery 261261
+uplink 274 7560 / 7560 = 100.0 % 134568 
+downlink 274 0 / 171000 = 0.0 % 0 
+uplink 274.715000 delivery 261701
+uplink 275.289000 delivery 262264
+uplink 275 3024 / 3024 = 100.0 % 134568 
+downlink 275 0 / 175500 = 0.0 % 0 
+uplink 275.529000 delivery 262494
+uplink 275.537000 delivery 262489
+uplink 275.969000 delivery 262910
+uplink 276.223000 delivery 263154
+uplink 276.235000 delivery 263154
+uplink 276 7560 / 7560 = 100.0 % 134628 
+downlink 276 0 / 153000 = 0.0 % 0 
+uplink 276.525000 delivery 263433
+uplink 276.735000 delivery 263632
+uplink 276.826000 delivery 263712
+uplink 277.060000 delivery 263935
+uplink 277.063000 delivery 263926
+uplink 277.280000 delivery 264132
+uplink 277 9072 / 9072 = 100.0 % 134568 
+downlink 277 0 / 142500 = 0.0 % 0 
+uplink 277.572000 delivery 264413
+uplink 277.840000 delivery 264670
+uplink 278.023000 delivery 264842
+uplink 278.042000 delivery 264849
+uplink 278 6048 / 6048 = 100.0 % 134568 
+downlink 278 0 / 141000 = 0.0 % 0 
+uplink 278.561000 delivery 265357
+uplink 278.791000 delivery 265576
+uplink 279.039000 delivery 265812
+uplink 279.244000 delivery 266006
+uplink 279 6048 / 6048 = 100.0 % 136080 
+downlink 279 0 / 184500 = 0.0 % 0 
+uplink 279.720000 delivery 266471
+uplink 280.012000 delivery 266750
+uplink 280.020000 delivery 266747
+uplink 280.036000 delivery 266753
+uplink 280.241000 delivery 266948
+uplink 280 7560 / 7560 = 100.0 % 134568 
+downlink 280 0 / 160500 = 0.0 % 0 
+uplink 280.508000 delivery 267203
+uplink 280.680000 delivery 267364
+uplink 280.735000 delivery 267407
+uplink 281.254000 delivery 267915
+uplink 281.341000 delivery 267991
+uplink 281 7560 / 7560 = 100.0 % 134568 
+downlink 281 0 / 147000 = 0.0 % 0 
+uplink 281.480000 delivery 268119
+uplink 281.664000 delivery 268292
+uplink 282.078000 delivery 268695
+uplink 282.355000 delivery 268960
+uplink 282 6048 / 6048 = 100.0 % 134568 
+downlink 282 0 / 145500 = 0.0 % 0 
+uplink 282.551000 delivery 269145
+uplink 283.021000 delivery 269604
+uplink 283.284000 delivery 269855
+uplink 283.348000 delivery 269908
+uplink 283 6048 / 6048 = 100.0 % 134568 
+downlink 283 0 / 175500 = 0.0 % 0 
+uplink 283.558000 delivery 270106
+uplink 283.810000 delivery 270347
+uplink 284.121000 delivery 270648
+uplink 284 4536 / 4536 = 100.0 % 134568 
+downlink 284 0 / 174000 = 0.0 % 0 
+uplink 284.550000 delivery 271065
+uplink 284.901000 delivery 271405
+uplink 284.933000 delivery 271427
+uplink 285.167000 delivery 271649
+uplink 285.238000 delivery 271709
+uplink 285 7560 / 7560 = 100.0 % 136080 
+downlink 285 0 / 168000 = 0.0 % 0 
+uplink 285.495000 delivery 271954
+uplink 285.783000 delivery 272231
+uplink 286.354000 delivery 272791
+uplink 286 4536 / 4536 = 100.0 % 134568 
+downlink 286 0 / 156000 = 0.0 % 0 
+uplink 286.649000 delivery 273074
+uplink 286.736000 delivery 273150
+uplink 286.784000 delivery 273187
+uplink 286.934000 delivery 273326
+uplink 286.945000 delivery 273326
+uplink 286.984000 delivery 273354
+uplink 287.359000 delivery 273717
+uplink 287.444000 delivery 273792
+uplink 287 12096 / 12096 = 100.0 % 134568 
+downlink 287 0 / 151500 = 0.0 % 0 
+uplink 287.512000 delivery 273848
+uplink 287.579000 delivery 273904
+uplink 287.671000 delivery 273985
+uplink 287.846000 delivery 274148
+uplink 288.174000 delivery 274464
+uplink 288 7560 / 7560 = 100.0 % 134568 
+downlink 288 0 / 153000 = 0.0 % 0 
+uplink 288.547000 delivery 274827
+uplink 288.655000 delivery 274924
+uplink 288.790000 delivery 275047
+uplink 288.994000 delivery 275240
+uplink 289.043000 delivery 275278
+uplink 289.240000 delivery 275464
+downlink 289.285000 delivery 30
+uplink 289.407000 delivery 275620
+uplink 289.435000 delivery 275636
+uplink 289 12096 / 12096 = 100.0 % 134628 
+downlink 289 60 / 172500 = 0.0 % 60 
+uplink 289.765000 delivery 275955
+uplink 289.833000 delivery 276012
+uplink 289.929000 delivery 276097
+uplink 290.124000 delivery 276281
+uplink 290.252000 delivery 276398
+downlink 290.312000 delivery 33
+uplink 290 7560 / 7560 = 100.0 % 136080 
+downlink 290 60 / 154500 = 0.0 % 60 
+uplink 291.020000 delivery 277154
+uplink 291.229000 delivery 277352
+downlink 291.231000 delivery 31
+uplink 291.411000 delivery 277523
+uplink 291 4536 / 4536 = 100.0 % 134568 
+downlink 291 60 / 150000 = 0.0 % 60 
+uplink 291.699000 delivery 277800
+uplink 292.025000 delivery 278114
+downlink 292.247000 delivery 23
+uplink 292.370000 delivery 278448
+uplink 292 4536 / 4536 = 100.0 % 134568 
+downlink 292 60 / 156000 = 0.0 % 60 
+uplink 292.618000 delivery 278685
+uplink 292.756000 delivery 278812
+uplink 292.976000 delivery 279020
+downlink 293.269000 delivery 21
+uplink 293.412000 delivery 279445
+uplink 293 6048 / 6048 = 100.0 % 134568 
+downlink 293 60 / 165000 = 0.0 % 60 
+uplink 293.916000 delivery 279938
+uplink 294.315000 delivery 280325
+uplink 294 3024 / 3024 = 100.0 % 134568 
+downlink 294 0 / 148500 = 0.0 % 0 
+uplink 294.489000 delivery 280488
+uplink 294.588000 delivery 280576
+uplink 294.652000 delivery 280629
+uplink 294.835000 delivery 280801
+uplink 294.854000 delivery 280809
+uplink 295.251000 delivery 281195
+uplink 295.338000 delivery 281270
+uplink 295.390000 delivery 281311
+uplink 295 12096 / 12096 = 100.0 % 134568 
+downlink 295 0 / 157500 = 0.0 % 0 
+uplink 296.051000 delivery 281961
+uplink 296 1512 / 1512 = 100.0 % 134568 
+downlink 296 0 / 174000 = 0.0 % 0 
+downlink 296.554000 delivery 27
+uplink 296.625000 delivery 282524
+uplink 296.656000 delivery 282543
+uplink 296.675000 delivery 282552
+uplink 296.855000 delivery 282720
+uplink 297 6048 / 6048 = 100.0 % 136080 
+downlink 297 60 / 151500 = 0.0 % 60 
+uplink 297.460000 delivery 283314
+uplink 297.722000 delivery 283565
+downlink 297.973000 delivery 21
+downlink 297.973000 delivery 21
+uplink 298.105000 delivery 283936
+uplink 298.151000 delivery 283971
+uplink 298 6048 / 6048 = 100.0 % 134568 
+downlink 298 352 / 172500 = 0.2 % 352 
+uplink 298.527000 delivery 284336
+uplink 298.682000 delivery 284480
+uplink 298.950000 delivery 284736
+uplink 299.101000 delivery 284876
+uplink 299.124000 delivery 284888
+uplink 299.144000 delivery 284896
+uplink 299.257000 delivery 284998
+uplink 299.390000 delivery 285121
+uplink 299.425000 delivery 285144
+uplink 299 13608 / 13608 = 100.0 % 134568 
+downlink 299 0 / 168000 = 0.0 % 0 
+uplink 299.709000 delivery 285417
+uplink 299.950000 delivery 285647
+uplink 299.998000 delivery 285684
+uplink 300.053000 delivery 285728
+uplink 300.282000 delivery 285946
+uplink 300.391000 delivery 286043
+uplink 300 9072 / 9072 = 100.0 % 134568 
+downlink 300 0 / 168000 = 0.0 % 0 
+uplink 300.848000 delivery 286488
+uplink 300.949000 delivery 286579
+uplink 301 3024 / 3024 = 100.0 % 134628 
+downlink 301 0 / 150000 = 0.0 % 0 
+uplink 301.591000 delivery 287209
+uplink 301.675000 delivery 287282
+uplink 301.757000 delivery 287353
+uplink 301.987000 delivery 287571
+uplink 302.121000 delivery 287694
+uplink 302.131000 delivery 287693
+uplink 302.138000 delivery 287689
+uplink 302 10584 / 10584 = 100.0 % 136080 
+downlink 302 0 / 145500 = 0.0 % 0 
+uplink 302.521000 delivery 288061
+uplink 302.988000 delivery 288517
+uplink 303.346000 delivery 288864
+uplink 303 4536 / 4536 = 100.0 % 134568 
+downlink 303 0 / 154500 = 0.0 % 0 
+uplink 303.473000 delivery 288980
+uplink 303.551000 delivery 289046
+uplink 303.679000 delivery 289163
+uplink 303.990000 delivery 289463
+uplink 304.058000 delivery 289520
+uplink 304.310000 delivery 289760
+uplink 304 9072 / 9072 = 100.0 % 134568 
+downlink 304 0 / 169500 = 0.0 % 0 
+uplink 304.616000 delivery 290054
+uplink 304.622000 delivery 290050
+uplink 305.070000 delivery 290486
+uplink 305.274000 delivery 290679
+uplink 305.278000 delivery 290672
+uplink 305 7560 / 7560 = 100.0 % 134568 
+downlink 305 0 / 171000 = 0.0 % 0 
+uplink 305.532000 delivery 290915
+uplink 305.626000 delivery 290998
+uplink 305.642000 delivery 291002
+uplink 305.781000 delivery 291130
+uplink 306.077000 delivery 291415
+uplink 306.094000 delivery 291421
+uplink 306.115000 delivery 291431
+uplink 306 10584 / 10584 = 100.0 % 134568 
+downlink 306 0 / 169500 = 0.0 % 0 
+uplink 306.633000 delivery 291938
+uplink 306.722000 delivery 292016
+uplink 306.964000 delivery 292246
+uplink 307.092000 delivery 292362
+uplink 307 6048 / 6048 = 100.0 % 134568 
+downlink 307 0 / 169500 = 0.0 % 0 
+uplink 307.718000 delivery 292977
+uplink 308.186000 delivery 293434
+uplink 308.327000 delivery 293564
+uplink 308.397000 delivery 293623
+uplink 308 6048 / 6048 = 100.0 % 134568 
+downlink 308 0 / 190500 = 0.0 % 0 
+uplink 308.759000 delivery 293974
+uplink 309.298000 delivery 294502
+uplink 309 3024 / 3024 = 100.0 % 136080 
+downlink 309 0 / 160500 = 0.0 % 0 
+uplink 309.497000 delivery 294689
+uplink 309.843000 delivery 295024
+uplink 310.115000 delivery 295285
+uplink 310 4536 / 4536 = 100.0 % 134568 
+downlink 310 0 / 168000 = 0.0 % 0 
+uplink 310.536000 delivery 295694
+uplink 310.881000 delivery 296028
+uplink 311.188000 delivery 296324
+uplink 311.421000 delivery 296546
+uplink 311 6048 / 6048 = 100.0 % 134568 
+downlink 311 0 / 154500 = 0.0 % 0 
+uplink 311.833000 delivery 296946
+uplink 312.199000 delivery 297302
+uplink 312 3024 / 3024 = 100.0 % 134568 
+downlink 312 0 / 175500 = 0.0 % 0 
+uplink 312.664000 delivery 297754
+uplink 312.686000 delivery 297766
+uplink 312.739000 delivery 297808
+uplink 313.167000 delivery 298225
+uplink 313 6048 / 6048 = 100.0 % 134568 
+downlink 313 0 / 162000 = 0.0 % 0 
+uplink 313.523000 delivery 298570
+uplink 313.546000 delivery 298581
+downlink 313.619000 delivery 24
+uplink 313.645000 delivery 298668
+uplink 314 4536 / 4536 = 100.0 % 134568 
+downlink 314 60 / 159000 = 0.0 % 60 
+uplink 314.498000 delivery 299510
+uplink 314.550000 delivery 299551
+uplink 314.768000 delivery 299759
+uplink 315.017000 delivery 299997
+uplink 315.240000 delivery 300207
+uplink 315 7560 / 7560 = 100.0 % 136080 
+downlink 315 0 / 171000 = 0.0 % 0 
+uplink 315.467000 delivery 300424
+uplink 315.697000 delivery 300643
+uplink 315.742000 delivery 300676
+uplink 316.022000 delivery 300945
+uplink 316.149000 delivery 301061
+uplink 316.153000 delivery 301054
+uplink 316.222000 delivery 301112
+uplink 316.299000 delivery 301177
+uplink 316 12096 / 12096 = 100.0 % 134568 
+downlink 316 0 / 148500 = 0.0 % 0 
+uplink 316.466000 delivery 301333
+uplink 316.511000 delivery 301366
+uplink 316.804000 delivery 301648
+uplink 316.890000 delivery 301723
+uplink 316.893000 delivery 301715
+uplink 317.225000 delivery 302036
+uplink 317.375000 delivery 302175
+uplink 317 10584 / 10584 = 100.0 % 134568 
+downlink 317 0 / 162000 = 0.0 % 0 
+uplink 317.625000 delivery 302414
+uplink 318.100000 delivery 302878
+uplink 318.209000 delivery 302975
+uplink 318.307000 delivery 303062
+uplink 318 6048 / 6048 = 100.0 % 134568 
+downlink 318 0 / 174000 = 0.0 % 0 
+uplink 318.579000 delivery 303322
+uplink 318.957000 delivery 303689
+uplink 319.200000 delivery 303922
+uplink 319 4536 / 4536 = 100.0 % 134568 
+downlink 319 0 / 168000 = 0.0 % 0 
+uplink 319.600000 delivery 304310
+uplink 319.655000 delivery 304354
+uplink 320.239000 delivery 304927
+uplink 320.336000 delivery 305012
+uplink 320 6048 / 6048 = 100.0 % 136080 
+downlink 320 0 / 148500 = 0.0 % 0 
+uplink 320.642000 delivery 305306
+uplink 321.118000 delivery 305772
+uplink 321.210000 delivery 305850
+uplink 321.398000 delivery 306030
+uplink 321 6048 / 6048 = 100.0 % 134628 
+downlink 321 0 / 166500 = 0.0 % 0 
+uplink 321.787000 delivery 306407
+uplink 321.949000 delivery 306557
+uplink 322.173000 delivery 306770
+uplink 322.327000 delivery 306914
+uplink 322 6048 / 6048 = 100.0 % 134568 
+downlink 322 0 / 132000 = 0.0 % 0 
+uplink 322.663000 delivery 307237
+uplink 322.914000 delivery 307478
+uplink 322.928000 delivery 307481
+uplink 323.277000 delivery 307817
+uplink 323 6048 / 6048 = 100.0 % 134568 
+downlink 323 0 / 144000 = 0.0 % 0 
+uplink 323.462000 delivery 307992
+uplink 323.789000 delivery 308308
+uplink 324.352000 delivery 308860
+uplink 324 4536 / 4536 = 100.0 % 134568 
+downlink 324 0 / 172500 = 0.0 % 0 
+uplink 324.612000 delivery 309109
+uplink 324.618000 delivery 309103
+uplink 324.781000 delivery 309255
+uplink 325.022000 delivery 309484
+uplink 325.023000 delivery 309474
+uplink 325 7560 / 7560 = 100.0 % 134568 
+downlink 325 0 / 160500 = 0.0 % 0 
+uplink 325.608000 delivery 310049
+uplink 326.152000 delivery 310581
+uplink 326 3024 / 3024 = 100.0 % 134628 
+downlink 326 0 / 145500 = 0.0 % 0 
+uplink 326.525000 delivery 310943
+uplink 326.552000 delivery 310959
+uplink 326.846000 delivery 311242
+uplink 326.986000 delivery 311371
+uplink 327.098000 delivery 311472
+uplink 327.422000 delivery 311784
+uplink 327 9072 / 9072 = 100.0 % 136080 
+downlink 327 0 / 169500 = 0.0 % 0 
+uplink 327.777000 delivery 312129
+downlink 328.042000 delivery 27
+downlink 328.042000 delivery 27
+uplink 328.069000 delivery 312408
+uplink 328.116000 delivery 312444
+uplink 328 4536 / 4536 = 100.0 % 134568 
+downlink 328 352 / 148500 = 0.2 % 352 
+uplink 328.482000 delivery 312799
+uplink 328.783000 delivery 313089
+uplink 329.349000 delivery 313644
+uplink 329 4536 / 4536 = 100.0 % 134568 
+downlink 329 0 / 157500 = 0.0 % 0 
+uplink 329.483000 delivery 313767
+uplink 329.599000 delivery 313872
+uplink 329.775000 delivery 314036
+uplink 330.165000 delivery 314415
+uplink 330.300000 delivery 314539
+uplink 330.409000 delivery 314636
+uplink 330 9072 / 9072 = 100.0 % 134568 
+downlink 330 0 / 145500 = 0.0 % 0 
+uplink 330.736000 delivery 314952
+uplink 330.903000 delivery 315108
+uplink 331.364000 delivery 315558
+uplink 331 4536 / 4536 = 100.0 % 134568 
+downlink 331 0 / 184500 = 0.0 % 0 
+uplink 331.567000 delivery 315749
+uplink 331.684000 delivery 315856
+uplink 332 3024 / 3024 = 100.0 % 136080 
+downlink 332 0 / 162000 = 0.0 % 0 
+uplink 332.472000 delivery 316632
+uplink 332.875000 delivery 317024
+uplink 332.917000 delivery 317055
+uplink 333.182000 delivery 317309
+uplink 333 6048 / 6048 = 100.0 % 134568 
+downlink 333 0 / 166500 = 0.0 % 0 
+uplink 333.527000 delivery 317643
+uplink 333.726000 delivery 317831
+uplink 334.273000 delivery 318366
+uplink 334 4536 / 4536 = 100.0 % 134568 
+downlink 334 0 / 166500 = 0.0 % 0 
+uplink 334.690000 delivery 318772
+uplink 334.768000 delivery 318839
+uplink 334.847000 delivery 318905
+uplink 334.966000 delivery 319014
+uplink 334.984000 delivery 319021
+uplink 335.039000 delivery 319058
+uplink 335.156000 delivery 319170
+uplink 335 10584 / 10584 = 100.0 % 134568 
+downlink 335 0 / 156000 = 0.0 % 0 
+uplink 335.473000 delivery 319476
+downlink 335.573000 delivery 36
+uplink 336.067000 delivery 320058
+uplink 336 3024 / 3024 = 100.0 % 134568 
+downlink 336 60 / 136500 = 0.0 % 60 
+downlink 336.482000 delivery 23
+uplink 336.559000 delivery 320539
+uplink 337.140000 delivery 321110
+uplink 337.409000 delivery 321368
+uplink 337 4536 / 4536 = 100.0 % 134568 
+downlink 337 60 / 162000 = 0.0 % 60 
+downlink 337.511000 delivery 28
+uplink 337.739000 delivery 321687
+uplink 337.884000 delivery 321820
+uplink 337.891000 delivery 321816
+uplink 338.168000 delivery 322082
+uplink 338 6048 / 6048 = 100.0 % 134568 
+downlink 338 60 / 166500 = 0.0 % 60 
+uplink 338.528000 delivery 322431
+downlink 338.531000 delivery 24
+uplink 338.945000 delivery 322836
+uplink 339.030000 delivery 322910
+uplink 339 4536 / 4536 = 100.0 % 134568 
+downlink 339 60 / 184500 = 0.0 % 60 
+downlink 339.580000 delivery 49
+uplink 339.591000 delivery 323460
+uplink 339.642000 delivery 323500
+uplink 340.152000 delivery 323998
+uplink 340.413000 delivery 324248
+uplink 340 6048 / 6048 = 100.0 % 136080 
+downlink 340 60 / 148500 = 0.0 % 60 
+uplink 341.084000 delivery 324908
+uplink 341.208000 delivery 325021
+uplink 341.377000 delivery 325178
+uplink 341 4536 / 4536 = 100.0 % 134568 
+downlink 341 0 / 141000 = 0.0 % 0 
+uplink 341.629000 delivery 325419
+uplink 341.636000 delivery 325409
+uplink 342.282000 delivery 326050
+uplink 342.324000 delivery 326081
+uplink 342.422000 delivery 326166
+uplink 342 7560 / 7560 = 100.0 % 134568 
+downlink 342 0 / 145500 = 0.0 % 0 
+uplink 342.573000 delivery 326307
+uplink 342.788000 delivery 326511
+uplink 343.448000 delivery 327160
+uplink 343 4536 / 4536 = 100.0 % 134568 
+downlink 343 0 / 142500 = 0.0 % 0 
+uplink 343.762000 delivery 327462
+uplink 344.009000 delivery 327699
+uplink 344.259000 delivery 327937
+uplink 344 4536 / 4536 = 100.0 % 134568 
+downlink 344 0 / 159000 = 0.0 % 0 
+uplink 344.540000 delivery 328206
+uplink 344.689000 delivery 328345
+uplink 344.928000 delivery 328572
+uplink 344.937000 delivery 328570
+uplink 344.944000 delivery 328566
+uplink 345.232000 delivery 328843
+uplink 345 9072 / 9072 = 100.0 % 136080 
+downlink 345 0 / 159000 = 0.0 % 0 
+uplink 345.702000 delivery 329302
+uplink 345.824000 delivery 329413
+uplink 346.269000 delivery 329846
+uplink 346 4536 / 4536 = 100.0 % 134568 
+downlink 346 0 / 159000 = 0.0 % 0 
+uplink 346.560000 delivery 330126
+uplink 346.925000 delivery 330480
+uplink 347.306000 delivery 330849
+uplink 347.452000 delivery 330984
+uplink 347 6048 / 6048 = 100.0 % 134568 
+downlink 347 0 / 162000 = 0.0 % 0 
+uplink 348.245000 delivery 331765
+uplink 348 1512 / 1512 = 100.0 % 134568 
+downlink 348 0 / 162000 = 0.0 % 0 
+uplink 348.518000 delivery 332027
+uplink 348.607000 delivery 332105
+uplink 348.757000 delivery 332244
+uplink 349.009000 delivery 332484
+uplink 349.120000 delivery 332585
+uplink 349 7560 / 7560 = 100.0 % 134568 
+downlink 349 0 / 150000 = 0.0 % 0 
+uplink 349.488000 delivery 332942
+uplink 349.886000 delivery 333329
+uplink 350.209000 delivery 333641
+uplink 350 4536 / 4536 = 100.0 % 134568 
+downlink 350 0 / 147000 = 0.0 % 0 
+uplink 350.718000 delivery 334138
+uplink 351.202000 delivery 334610
+uplink 351.340000 delivery 334738
+uplink 351.346000 delivery 334733
+uplink 351 6048 / 6048 = 100.0 % 136140 
+downlink 351 0 / 147000 = 0.0 % 0 
+uplink 351.491000 delivery 334866
+uplink 351.914000 delivery 335278
+uplink 352.354000 delivery 335706
+uplink 352.442000 delivery 335784
+uplink 352 6048 / 6048 = 100.0 % 134568 
+downlink 352 0 / 165000 = 0.0 % 0 
+uplink 352.788000 delivery 336119
+uplink 353 1512 / 1512 = 100.0 % 134568 
+downlink 353 0 / 174000 = 0.0 % 0 
+uplink 353.684000 delivery 337003
+uplink 353.830000 delivery 337138
+downlink 353.969000 delivery 26
+uplink 354.237000 delivery 337534
+uplink 354 4536 / 4536 = 100.0 % 134568 
+downlink 354 60 / 133500 = 0.0 % 60 
+uplink 354.718000 delivery 338004
+uplink 354.736000 delivery 338011
+uplink 355.277000 delivery 338540
+uplink 355.352000 delivery 338604
+uplink 355 6048 / 6048 = 100.0 % 134568 
+downlink 355 0 / 144000 = 0.0 % 0 
+uplink 355.498000 delivery 338739
+uplink 355.518000 delivery 338747
+uplink 355.964000 delivery 339182
+uplink 356.267000 delivery 339474
+uplink 356 6048 / 6048 = 100.0 % 136140 
+downlink 356 0 / 172500 = 0.0 % 0 
+uplink 356.927000 delivery 340123
+uplink 357.041000 delivery 340226
+uplink 357.252000 delivery 340426
+uplink 357 4536 / 4536 = 100.0 % 133056 
+downlink 357 0 / 172500 = 0.0 % 0 
+uplink 357.585000 delivery 340746
+uplink 357.685000 delivery 340836
+downlink 358.103000 delivery 20
+downlink 358.103000 delivery 20
+uplink 358.316000 delivery 341456
+uplink 358 4536 / 4536 = 100.0 % 136080 
+downlink 358 352 / 186000 = 0.2 % 352 
+uplink 358.664000 delivery 341793
+uplink 359.243000 delivery 342361
+uplink 359 3024 / 3024 = 100.0 % 134568 
+downlink 359 0 / 172500 = 0.0 % 0 
+uplink 359.934000 delivery 343040
+uplink 360.129000 delivery 343224
+uplink 360 3024 / 3024 = 100.0 % 134568 
+downlink 360 0 / 165000 = 0.0 % 0 
+uplink 360.510000 delivery 343594
+uplink 360.544000 delivery 343616
+uplink 361.173000 delivery 344234
+uplink 361.289000 delivery 344339
+uplink 361.419000 delivery 344457
+uplink 361 7560 / 7560 = 100.0 % 134568 
+downlink 361 0 / 129000 = 0.0 % 0 
+uplink 361.614000 delivery 344641
+uplink 361.923000 delivery 344940
+uplink 362.396000 delivery 345402
+uplink 362 4536 / 4536 = 100.0 % 134568 
+downlink 362 0 / 187500 = 0.0 % 0 
+uplink 362.686000 delivery 345680
+uplink 363.273000 delivery 346256
+uplink 363 3024 / 3024 = 100.0 % 136080 
+downlink 363 0 / 162000 = 0.0 % 0 
+uplink 363.565000 delivery 346537
+uplink 363.962000 delivery 346923
+uplink 364.099000 delivery 347048
+uplink 364 4536 / 4536 = 100.0 % 134568 
+downlink 364 0 / 169500 = 0.0 % 0 
+uplink 364.634000 delivery 347572
+uplink 364.732000 delivery 347659
+uplink 365.258000 delivery 348174
+uplink 365.416000 delivery 348320
+uplink 365 6048 / 6048 = 100.0 % 134568 
+downlink 365 0 / 148500 = 0.0 % 0 
+uplink 365.788000 delivery 348681
+uplink 366.057000 delivery 348939
+uplink 366.268000 delivery 349138
+uplink 366.357000 delivery 349217
+uplink 366 6048 / 6048 = 100.0 % 134568 
+downlink 366 0 / 148500 = 0.0 % 0 
+uplink 367.091000 delivery 349939
+uplink 367 1512 / 1512 = 100.0 % 134568 
+downlink 367 0 / 151500 = 0.0 % 0 
+uplink 367.905000 delivery 350742
+uplink 367.913000 delivery 350739
+uplink 368.253000 delivery 351068
+uplink 368 4536 / 4536 = 100.0 % 134568 
+downlink 368 0 / 139500 = 0.0 % 0 
+uplink 368.486000 delivery 351290
+uplink 368.512000 delivery 351304
+uplink 368.808000 delivery 351589
+uplink 368.824000 delivery 351593
+uplink 369.208000 delivery 351966
+uplink 369.277000 delivery 352024
+uplink 369 9072 / 9072 = 100.0 % 134568 
+downlink 369 0 / 178500 = 0.0 % 0 
+uplink 369.581000 delivery 352316
+uplink 369.785000 delivery 352510
+uplink 370 3024 / 3024 = 100.0 % 136080 
+downlink 370 0 / 171000 = 0.0 % 0 
+uplink 370.578000 delivery 353292
+uplink 370.810000 delivery 353513
+uplink 370.928000 delivery 353619
+uplink 371.028000 delivery 353708
+uplink 371.383000 delivery 354051
+uplink 371.397000 delivery 354055
+uplink 371 9072 / 9072 = 100.0 % 134568 
+downlink 371 0 / 144000 = 0.0 % 0 
+uplink 371.683000 delivery 354329
+uplink 371.956000 delivery 354591
+uplink 372.041000 delivery 354666
+uplink 372 4536 / 4536 = 100.0 % 134568 
+downlink 372 0 / 178500 = 0.0 % 0 
+uplink 372.643000 delivery 355256
+uplink 372.706000 delivery 355307
+uplink 372.711000 delivery 355302
+uplink 373.125000 delivery 355704
+uplink 373.268000 delivery 355836
+uplink 373 7560 / 7560 = 100.0 % 134568 
+downlink 373 0 / 174000 = 0.0 % 0 
+uplink 373.474000 delivery 356030
+uplink 373.818000 delivery 356364
+uplink 374 3024 / 3024 = 100.0 % 134568 
+downlink 374 0 / 183000 = 0.0 % 0 
+uplink 374.503000 delivery 357037
+uplink 375.042000 delivery 357565
+uplink 375.121000 delivery 357633
+uplink 375.394000 delivery 357895
+uplink 375 6048 / 6048 = 100.0 % 136080 
+downlink 375 0 / 175500 = 0.0 % 0 
+uplink 375.462000 delivery 357952
+uplink 375.803000 delivery 358281
+uplink 376.148000 delivery 358615
+uplink 376 4536 / 4536 = 100.0 % 134628 
+downlink 376 0 / 163500 = 0.0 % 0 
+uplink 376.534000 delivery 358990
+uplink 376.624000 delivery 359069
+uplink 376.757000 delivery 359191
+uplink 376.791000 delivery 359213
+uplink 377.160000 delivery 359571
+uplink 377 7560 / 7560 = 100.0 % 134568 
+downlink 377 0 / 168000 = 0.0 % 0 
+uplink 377.553000 delivery 359953
+uplink 377.918000 delivery 360307
+uplink 378.172000 delivery 360549
+uplink 378.332000 delivery 360698
+uplink 378.398000 delivery 360752
+uplink 378 7560 / 7560 = 100.0 % 134568 
+downlink 378 0 / 153000 = 0.0 % 0 
+uplink 378.968000 delivery 361310
+uplink 379.287000 delivery 361619
+uplink 379 3024 / 3024 = 100.0 % 134568 
+downlink 379 0 / 175500 = 0.0 % 0 
+uplink 379.571000 delivery 361892
+uplink 379.701000 delivery 362010
+uplink 379.710000 delivery 362007
+uplink 379.904000 delivery 362190
+uplink 380.054000 delivery 362331
+uplink 380.129000 delivery 362395
+uplink 380.215000 delivery 362469
+uplink 380.244000 delivery 362487
+uplink 380 12096 / 12096 = 100.0 % 134568 
+downlink 380 0 / 145500 = 0.0 % 0 
+uplink 380.492000 delivery 362723
+uplink 380.900000 delivery 363120
+uplink 381.074000 delivery 363283
+uplink 381.161000 delivery 363359
+uplink 381.389000 delivery 363575
+uplink 381 7560 / 7560 = 100.0 % 136080 
+downlink 381 0 / 153000 = 0.0 % 0 
+uplink 381.785000 delivery 363960
+uplink 381.838000 delivery 364002
+uplink 382.074000 delivery 364226
+uplink 382.200000 delivery 364342
+uplink 382.315000 delivery 364446
+uplink 382.317000 delivery 364437
+uplink 382 9072 / 9072 = 100.0 % 134568 
+downlink 382 0 / 177000 = 0.0 % 0 
+uplink 382.873000 delivery 364981
+uplink 382.900000 delivery 364997
+uplink 382.934000 delivery 365020
+uplink 382.976000 delivery 365051
+uplink 383.070000 delivery 365133
+uplink 383 7560 / 7560 = 100.0 % 134568 
+downlink 383 0 / 141000 = 0.0 % 0 
+uplink 383.564000 delivery 365617
+uplink 383.876000 delivery 365917
+uplink 384.236000 delivery 366265
+uplink 384.391000 delivery 366410
+uplink 384 6048 / 6048 = 100.0 % 134568 
+downlink 384 0 / 175500 = 0.0 % 0 
+uplink 384.600000 delivery 366607
+uplink 384.733000 delivery 366729
+uplink 385.322000 delivery 367306
+uplink 385.404000 delivery 367378
+uplink 385 6048 / 6048 = 100.0 % 134568 
+downlink 385 0 / 157500 = 0.0 % 0 
+uplink 385.554000 delivery 367516
+uplink 385.904000 delivery 367855
+uplink 386.026000 delivery 367966
+uplink 386 4536 / 4536 = 100.0 % 134568 
+downlink 386 0 / 153000 = 0.0 % 0 
+uplink 387.112000 delivery 369041
+uplink 387.114000 delivery 369031
+uplink 387.261000 delivery 369168
+uplink 387 4536 / 4536 = 100.0 % 136080 
+downlink 387 0 / 150000 = 0.0 % 0 
+uplink 387.466000 delivery 369361
+uplink 387.800000 delivery 369684
+downlink 387.998000 delivery 25
+downlink 388.171000 delivery 25
+downlink 388.171000 delivery 24
+uplink 388.221000 delivery 370093
+uplink 388.242000 delivery 370103
+uplink 388 6048 / 6048 = 100.0 % 134568 
+downlink 388 412 / 157500 = 0.3 % 412 
+uplink 388.539000 delivery 370388
+uplink 388.695000 delivery 370534
+uplink 388.762000 delivery 370590
+uplink 388.859000 delivery 370676
+uplink 389 6048 / 6048 = 100.0 % 134628 
+downlink 389 0 / 144000 = 0.0 % 0 
+uplink 389.454000 delivery 371260
+uplink 389.463000 delivery 371257
+uplink 389.656000 delivery 371439
+uplink 390.128000 delivery 371900
+uplink 390.153000 delivery 371914
+uplink 390.232000 delivery 371981
+uplink 390 9072 / 9072 = 100.0 % 134568 
+downlink 390 0 / 154500 = 0.0 % 0 
+uplink 390.568000 delivery 372306
+uplink 390.980000 delivery 372707
+uplink 391.193000 delivery 372908
+uplink 391 4536 / 4536 = 100.0 % 134568 
+downlink 391 0 / 151500 = 0.0 % 0 
+uplink 391.693000 delivery 373397
+uplink 391.975000 delivery 373668
+uplink 391.988000 delivery 373670
+uplink 392.078000 delivery 373749
+downlink 392.194000 delivery 32
+uplink 392.312000 delivery 373971
+uplink 392 7560 / 7560 = 100.0 % 134568 
+downlink 392 60 / 136500 = 0.0 % 60 
+uplink 392.580000 delivery 374226
+uplink 392.736000 delivery 374373
+uplink 392.882000 delivery 374508
+uplink 392.906000 delivery 374520
+uplink 393.062000 delivery 374665
+downlink 393.212000 delivery 26
+uplink 393.337000 delivery 374928
+uplink 393 9072 / 9072 = 100.0 % 134568 
+downlink 393 60 / 154500 = 0.0 % 60 
+uplink 393.451000 delivery 375030
+uplink 393.680000 delivery 375250
+downlink 394.236000 delivery 25
+uplink 394.355000 delivery 375913
+uplink 394 4536 / 4536 = 100.0 % 136080 
+downlink 394 60 / 175500 = 0.0 % 60 
+uplink 394.982000 delivery 376530
+uplink 395 1512 / 1512 = 100.0 % 134568 
+downlink 395 0 / 178500 = 0.0 % 60 
+downlink 395.466000 delivery 27
+uplink 395.486000 delivery 377022
+uplink 395.659000 delivery 377184
+uplink 395.705000 delivery 377219
+uplink 396.178000 delivery 377681
+uplink 396.316000 delivery 377807
+uplink 396.447000 delivery 377927
+uplink 396 9072 / 9072 = 100.0 % 134568 
+downlink 396 60 / 154500 = 0.0 % 0 
+downlink 396.483000 delivery 20
+uplink 396.758000 delivery 378227
+uplink 397.191000 delivery 378648
+downlink 397.419000 delivery 35
+uplink 397 3024 / 3024 = 100.0 % 134568 
+downlink 397 120 / 165000 = 0.1 % 120 
+uplink 397.735000 delivery 379181
+uplink 397.819000 delivery 379254
+uplink 398.021000 delivery 379445
+uplink 398.046000 delivery 379458
+uplink 398.211000 delivery 379612
+uplink 398.324000 delivery 379714
+uplink 398 9072 / 9072 = 100.0 % 134568 
+downlink 398 0 / 144000 = 0.0 % 0 
+downlink 398.637000 delivery 24
+uplink 398.720000 delivery 380099
+uplink 399.362000 delivery 380730
+uplink 399 3024 / 3024 = 100.0 % 136080 
+downlink 399 60 / 153000 = 0.0 % 60 
+uplink 399.614000 delivery 380971
+uplink 399.651000 delivery 380997
+downlink 399.658000 delivery 21
+uplink 399.745000 delivery 381079
+uplink 399.896000 delivery 381219
+uplink 399.984000 delivery 381296
+uplink 400.063000 delivery 381363
+uplink 400 9072 / 9072 = 100.0 % 134568 
+downlink 400 60 / 163500 = 0.0 % 60 
+uplink 400.586000 delivery 381874
+downlink 400.681000 delivery 20
+uplink 400.839000 delivery 382117
+uplink 401.142000 delivery 382408
+uplink 401 4536 / 4536 = 100.0 % 134568 
+downlink 401 60 / 160500 = 0.0 % 60 
+uplink 401.626000 delivery 382882
+uplink 401.812000 delivery 383057
+downlink 401.916000 delivery 26
+uplink 402.163000 delivery 383397
+uplink 402 4536 / 4536 = 100.0 % 134628 
+downlink 402 60 / 156000 = 0.0 % 60 
+uplink 402.460000 delivery 383682
+uplink 402.642000 delivery 383853
+downlink 402.835000 delivery 23
+downlink 403.038000 delivery 21
+uplink 403.074000 delivery 384274
+uplink 403.095000 delivery 384283
+uplink 403.404000 delivery 384581
+uplink 403 7560 / 7560 = 100.0 % 134568 
+downlink 403 120 / 166500 = 0.1 % 120 
+uplink 403.472000 delivery 384638
+uplink 403.773000 delivery 384927
+downlink 403.864000 delivery 29
+uplink 404.276000 delivery 385419
+uplink 404.379000 delivery 385511
+uplink 404 6048 / 6048 = 100.0 % 134568 
+downlink 404 60 / 162000 = 0.0 % 60 
+uplink 404.652000 delivery 385773
+uplink 404.788000 delivery 385897
+uplink 404.881000 delivery 385980
+uplink 404.991000 delivery 386079
+uplink 405.016000 delivery 386093
+uplink 405.102000 delivery 386167
+downlink 405.102000 delivery 38
+uplink 405.389000 delivery 386443
+uplink 405.398000 delivery 386440
+uplink 405 12096 / 12096 = 100.0 % 136080 
+downlink 405 60 / 160500 = 0.0 % 60 
+uplink 405.990000 delivery 387021
+downlink 406.108000 delivery 20
+uplink 406.231000 delivery 387251
+uplink 406.273000 delivery 387282
+uplink 406 4536 / 4536 = 100.0 % 134568 
+downlink 406 60 / 154500 = 0.0 % 60 
+uplink 406.494000 delivery 387492
+uplink 406.914000 delivery 387901
+uplink 407.052000 delivery 388027
+downlink 407.143000 delivery 31
+uplink 407.188000 delivery 388151
+uplink 407.331000 delivery 388283
+uplink 407 7560 / 7560 = 100.0 % 134568 
+downlink 407 60 / 175500 = 0.0 % 60 
+uplink 407.536000 delivery 388478
+uplink 407.973000 delivery 388904
+downlink 408.376000 delivery 35
+uplink 408 3024 / 3024 = 100.0 % 134568 
+downlink 408 60 / 145500 = 0.0 % 60 
+uplink 408.487000 delivery 389407
+uplink 408.808000 delivery 389716
+uplink 408.819000 delivery 389716
+uplink 408.922000 delivery 389808
+uplink 409.258000 delivery 390132
+downlink 409.284000 delivery 22
+uplink 409 7560 / 7560 = 100.0 % 134568 
+downlink 409 60 / 166500 = 0.0 % 60 
+uplink 409.463000 delivery 390325
+uplink 409.586000 delivery 390437
+uplink 409.616000 delivery 390457
+uplink 410.251000 delivery 391080
+downlink 410.308000 delivery 22
+uplink 410.318000 delivery 391137
+uplink 410 7560 / 7560 = 100.0 % 134568 
+downlink 410 60 / 174000 = 0.0 % 60 
+uplink 410.577000 delivery 391384
+uplink 410.682000 delivery 391478
+uplink 411.000000 delivery 391785
+uplink 411 4536 / 4536 = 100.0 % 134568 
+downlink 411 0 / 157500 = 0.0 % 0 
+uplink 411.491000 delivery 392265
+downlink 411.546000 delivery 31
+uplink 411.885000 delivery 392648
+uplink 411.941000 delivery 392693
+uplink 412.410000 delivery 393150
+uplink 412 6048 / 6048 = 100.0 % 136080 
+downlink 412 60 / 177000 = 0.0 % 60 
+downlink 412.568000 delivery 29
+uplink 412.673000 delivery 393402
+uplink 412.785000 delivery 393503
+uplink 412.999000 delivery 393705
+uplink 413.010000 delivery 393704
+uplink 413.038000 delivery 393722
+uplink 413.301000 delivery 393973
+uplink 413 9072 / 9072 = 100.0 % 134568 
+downlink 413 60 / 159000 = 0.0 % 60 
+downlink 413.485000 delivery 25
+uplink 413.562000 delivery 394224
+uplink 413.932000 delivery 394582
+uplink 414.230000 delivery 394869
+uplink 414 4536 / 4536 = 100.0 % 134568 
+downlink 414 60 / 175500 = 0.0 % 60 
+uplink 414.529000 delivery 395157
+downlink 414.709000 delivery 20
+uplink 414.939000 delivery 395556
+uplink 415.229000 delivery 395835
+uplink 415.327000 delivery 395921
+uplink 415.343000 delivery 395926
+uplink 415 7560 / 7560 = 100.0 % 134568 
+downlink 415 60 / 159000 = 0.0 % 60 
+uplink 415.548000 delivery 396120
+uplink 415.571000 delivery 396131
+uplink 415.720000 delivery 396269
+downlink 415.739000 delivery 26
+uplink 415.819000 delivery 396355
+uplink 416.325000 delivery 396852
+uplink 416 7560 / 7560 = 100.0 % 134568 
+downlink 416 60 / 169500 = 0.0 % 60 
+uplink 416.514000 delivery 397029
+downlink 416.778000 delivery 41
+uplink 416.929000 delivery 397433
+uplink 416.930000 delivery 397423
+uplink 417 4536 / 4536 = 100.0 % 134568 
+downlink 417 60 / 153000 = 0.0 % 60 
+uplink 417.862000 delivery 398344
+uplink 417.944000 delivery 398414
+downlink 418.008000 delivery 41
+uplink 418.079000 delivery 398538
+uplink 418.269000 delivery 398717
+downlink 418.292000 delivery 33
+downlink 418.292000 delivery 32
+uplink 418.313000 delivery 398750
+uplink 418.371000 delivery 398797
+uplink 418 9072 / 9072 = 100.0 % 136080 
+downlink 418 412 / 151500 = 0.3 % 412 
+uplink 418.455000 delivery 398869
+uplink 418.661000 delivery 399065
+uplink 418.730000 delivery 399122
+uplink 418.945000 delivery 399326
+downlink 419.013000 delivery 23
+uplink 419.351000 delivery 399720
+uplink 419 7560 / 7560 = 100.0 % 134568 
+downlink 419 60 / 151500 = 0.0 % 60 
+uplink 419.737000 delivery 400095
+uplink 419.804000 delivery 400152
+downlink 419.938000 delivery 27
+uplink 420.099000 delivery 400436
+uplink 420.278000 delivery 400603
+uplink 420 6048 / 6048 = 100.0 % 134568 
+downlink 420 60 / 163500 = 0.0 % 60 
+uplink 420.715000 delivery 401029
+uplink 421.008000 delivery 401311
+downlink 421.165000 delivery 24
+uplink 421.391000 delivery 401682
+uplink 421.410000 delivery 401690
+uplink 421 6048 / 6048 = 100.0 % 134568 
+downlink 421 60 / 165000 = 0.0 % 60 
+uplink 421.852000 delivery 402120
+uplink 422.086000 delivery 402344
+downlink 422.198000 delivery 23
+uplink 422.313000 delivery 402559
+uplink 422.428000 delivery 402662
+uplink 422.441000 delivery 402664
+uplink 422 7560 / 7560 = 100.0 % 134628 
+downlink 422 60 / 177000 = 0.0 % 60 
+uplink 422.460000 delivery 402671
+uplink 422.644000 delivery 402846
+uplink 422.974000 delivery 403164
+uplink 423.024000 delivery 403203
+downlink 423.213000 delivery 25
+uplink 423.220000 delivery 403388
+uplink 423.367000 delivery 403524
+uplink 423.429000 delivery 403575
+uplink 423 10584 / 10584 = 100.0 % 136080 
+downlink 423 60 / 163500 = 0.0 % 60 
+uplink 423.461000 delivery 403596
+uplink 423.864000 delivery 403986
+uplink 424.055000 delivery 404167
+uplink 424.403000 delivery 404503
+uplink 424 6048 / 6048 = 100.0 % 134568 
+downlink 424.454000 delivery 31
+downlink 424 60 / 165000 = 0.0 % 60 
+uplink 424.497000 delivery 404586
+downlink 424.848000 delivery 20
+uplink 424.980000 delivery 405057
+downlink 425.368000 delivery 26
+uplink 425 3024 / 3024 = 100.0 % 134568 
+downlink 425 120 / 157500 = 0.1 % 120 
+uplink 425.558000 delivery 405625
+uplink 425.767000 delivery 405822
+uplink 425.838000 delivery 405882
+uplink 425.923000 delivery 405956
+downlink 426.405000 delivery 43
+uplink 426.433000 delivery 406455
+uplink 426 7560 / 7560 = 100.0 % 134568 
+downlink 426 60 / 156000 = 0.0 % 60 
+uplink 426.521000 delivery 406532
+uplink 426.775000 delivery 406775
+uplink 426.857000 delivery 406845
+uplink 427.057000 delivery 407034
+uplink 427 6048 / 6048 = 100.0 % 134568 
+downlink 427 0 / 159000 = 0.0 % 0 
+downlink 427.611000 delivery 20
+uplink 427.624000 delivery 407590
+uplink 427.910000 delivery 407865
+uplink 427.971000 delivery 407915
+uplink 428.369000 delivery 408302
+uplink 428.441000 delivery 408362
+uplink 428 7560 / 7560 = 100.0 % 134568 
+downlink 428 60 / 166500 = 0.0 % 60 
+uplink 428.576000 delivery 408486
+downlink 428.643000 delivery 28
+uplink 428.998000 delivery 408897
+uplink 429.443000 delivery 409330
+uplink 429 4536 / 4536 = 100.0 % 136080 
+downlink 429 60 / 172500 = 0.0 % 60 
+downlink 429.560000 delivery 23
+uplink 429.827000 delivery 409703
+uplink 429.883000 delivery 409748
+uplink 430 3024 / 3024 = 100.0 % 134568 
+downlink 430 60 / 168000 = 0.0 % 60 
+uplink 430.631000 delivery 410484
+downlink 430.808000 delivery 43
+uplink 430.835000 delivery 410677
+uplink 431.230000 delivery 411062
+uplink 431.267000 delivery 411087
+uplink 431 6048 / 6048 = 100.0 % 134568 
+downlink 431 60 / 159000 = 0.0 % 60 
+uplink 431.632000 delivery 411441
+downlink 431.817000 delivery 28
+uplink 431.951000 delivery 411749
+uplink 432.412000 delivery 412199
+uplink 432 4536 / 4536 = 100.0 % 134628 
+downlink 432 60 / 148500 = 0.0 % 60 
+uplink 432.769000 delivery 412545
+uplink 432.804000 delivery 412568
+downlink 432.842000 delivery 29
+uplink 433.269000 delivery 413022
+uplink 433.330000 delivery 413072
+uplink 433 6048 / 6048 = 100.0 % 134568 
+downlink 433 60 / 175500 = 0.0 % 60 
+uplink 433.528000 delivery 413259
+downlink 434.063000 delivery 21
+uplink 434.112000 delivery 413831
+uplink 434.290000 delivery 413998
+uplink 434 4536 / 4536 = 100.0 % 134568 
+downlink 434 60 / 165000 = 0.0 % 60 
+uplink 434.625000 delivery 414322
+uplink 434.935000 delivery 414621
+downlink 434.995000 delivery 30
+uplink 435.138000 delivery 414812
+uplink 435 4536 / 4536 = 100.0 % 136080 
+downlink 435 60 / 169500 = 0.0 % 60 
+uplink 435.568000 delivery 415231
+uplink 436.000000 delivery 415652
+downlink 436.021000 delivery 33
+uplink 436.135000 delivery 415776
+uplink 436 4536 / 4536 = 100.0 % 134568 
+downlink 436 60 / 151500 = 0.0 % 60 
+uplink 436.620000 delivery 416250
+uplink 436.738000 delivery 416357
+uplink 436.894000 delivery 416501
+uplink 436.942000 delivery 416538
+downlink 437.249000 delivery 32
+uplink 437.265000 delivery 416850
+uplink 437 7560 / 7560 = 100.0 % 134568 
+downlink 437 60 / 141000 = 0.0 % 60 
+uplink 437.962000 delivery 417535
+downlink 438.280000 delivery 40
+uplink 438.295000 delivery 417858
+uplink 438.343000 delivery 417894
+uplink 438 4536 / 4536 = 100.0 % 134568 
+downlink 438 60 / 147000 = 0.0 % 60 
+uplink 438.510000 delivery 418050
+uplink 438.779000 delivery 418308
+downlink 439.188000 delivery 26
+uplink 439.235000 delivery 418752
+uplink 439 4536 / 4536 = 100.0 % 134568 
+downlink 439 60 / 162000 = 0.0 % 60 
+uplink 439.815000 delivery 419321
+uplink 439.986000 delivery 419481
+uplink 440.091000 delivery 419574
+uplink 440.411000 delivery 419883
+downlink 440.422000 delivery 31
+uplink 440 6048 / 6048 = 100.0 % 134568 
+downlink 440 60 / 148500 = 0.0 % 60 
+uplink 440.808000 delivery 420269
+uplink 441.047000 delivery 420498
+uplink 441.232000 delivery 420671
+downlink 441.436000 delivery 21
+uplink 441 4536 / 4536 = 100.0 % 134568 
+downlink 441 60 / 172500 = 0.0 % 60 
+uplink 441.885000 delivery 421313
+uplink 442.043000 delivery 421459
+uplink 442.127000 delivery 421532
+uplink 442.154000 delivery 421548
+uplink 442.348000 delivery 421730
+uplink 442 7560 / 7560 = 100.0 % 136080 
+downlink 442 0 / 159000 = 0.0 % 60 
+downlink 442.462000 delivery 23
+uplink 442.597000 delivery 421969
+uplink 442.673000 delivery 422034
+uplink 442.690000 delivery 422039
+uplink 442.746000 delivery 422084
+uplink 442.856000 delivery 422183
+uplink 443.010000 delivery 422326
+uplink 443 9072 / 9072 = 100.0 % 134568 
+downlink 443 60 / 154500 = 0.0 % 0 
+uplink 443.459000 delivery 422763
+uplink 443.651000 delivery 422943
+uplink 443.682000 delivery 422964
+downlink 443.704000 delivery 37
+uplink 444.057000 delivery 423327
+uplink 444 6048 / 6048 = 100.0 % 134568 
+downlink 444 60 / 169500 = 0.0 % 60 
+uplink 444.534000 delivery 423792
+downlink 444.625000 delivery 31
+uplink 444.670000 delivery 423918
+uplink 444.696000 delivery 423933
+uplink 444.878000 delivery 424104
+uplink 445.088000 delivery 424302
+uplink 445.162000 delivery 424366
+uplink 445 9072 / 9072 = 100.0 % 136080 
+downlink 445 60 / 163500 = 0.0 % 60 
+uplink 445.599000 delivery 424792
+downlink 445.635000 delivery 22
+uplink 446.064000 delivery 425245
+uplink 446.197000 delivery 425366
+uplink 446.277000 delivery 425436
+uplink 446 6048 / 6048 = 100.0 % 133056 
+downlink 446 60 / 165000 = 0.0 % 60 
+uplink 446.612000 delivery 425759
+uplink 446.663000 delivery 425799
+downlink 446.864000 delivery 22
+uplink 446.918000 delivery 426043
+uplink 447.072000 delivery 426185
+uplink 447 6048 / 6048 = 100.0 % 134568 
+downlink 447 60 / 162000 = 0.0 % 60 
+uplink 447.609000 delivery 426712
+uplink 447.698000 delivery 426789
+downlink 447.898000 delivery 33
+downlink 448.411000 delivery 23
+downlink 448.411000 delivery 22
+uplink 448.437000 delivery 427517
+uplink 448 4536 / 4536 = 100.0 % 136080 
+downlink 448 412 / 184500 = 0.2 % 412 
+uplink 448.560000 delivery 427629
+downlink 448.813000 delivery 26
+uplink 449.122000 delivery 428180
+uplink 449 3024 / 3024 = 100.0 % 134568 
+downlink 449 60 / 154500 = 0.0 % 60 
+uplink 449.485000 delivery 428532
+uplink 449.620000 delivery 428654
+uplink 449.810000 delivery 428834
+uplink 450.031000 delivery 429044
+downlink 450.040000 delivery 24
+uplink 450.081000 delivery 429082
+uplink 450.411000 delivery 429401
+uplink 450.440000 delivery 429418
+uplink 450 10584 / 10584 = 100.0 % 134568 
+downlink 450 60 / 153000 = 0.0 % 60 
+uplink 450.547000 delivery 429515
+uplink 450.650000 delivery 429607
+uplink 450.913000 delivery 429858
+uplink 451.038000 delivery 429972
+uplink 451.048000 delivery 429971
+uplink 451.141000 delivery 430053
+downlink 451.185000 delivery 39
+uplink 451.382000 delivery 430283
+uplink 451 10584 / 10584 = 100.0 % 134568 
+downlink 451 60 / 163500 = 0.0 % 60 
+uplink 451.668000 delivery 430557
+uplink 451.736000 delivery 430614
+downlink 452.091000 delivery 22
+uplink 452.127000 delivery 430994
+uplink 452.425000 delivery 431281
+uplink 452 6048 / 6048 = 100.0 % 136080 
+downlink 452 60 / 136500 = 0.0 % 60 
+uplink 452.615000 delivery 431460
+uplink 452.620000 delivery 431453
+uplink 452.819000 delivery 431641
+uplink 453.186000 delivery 431996
+uplink 453.194000 delivery 431993
+downlink 453.314000 delivery 22
+uplink 453 7560 / 7560 = 100.0 % 133056 
+downlink 453 60 / 163500 = 0.0 % 60 
+uplink 453.454000 delivery 432242
+uplink 453.816000 delivery 432593
+uplink 454.014000 delivery 432781
+uplink 454.063000 delivery 432818
+downlink 454.237000 delivery 23
+uplink 454.286000 delivery 433030
+uplink 454.428000 delivery 433160
+uplink 454 9072 / 9072 = 100.0 % 136080 
+downlink 454 60 / 175500 = 0.0 % 60 
+uplink 454.664000 delivery 433385
+uplink 455.024000 delivery 433734
+uplink 455.183000 delivery 433881
+downlink 455.259000 delivery 20
+uplink 455.335000 delivery 434022
+uplink 455 6048 / 6048 = 100.0 % 134628 
+downlink 455 60 / 181500 = 0.0 % 60 
+uplink 455.735000 delivery 434411
+uplink 455.874000 delivery 434539
+uplink 456.051000 delivery 434705
+uplink 456.095000 delivery 434738
+uplink 456 6048 / 6048 = 100.0 % 134568 
+downlink 456 0 / 144000 = 0.0 % 0 
+downlink 456.489000 delivery 21
+uplink 456.545000 delivery 435177
+uplink 456.870000 delivery 435490
+uplink 457.208000 delivery 435817
+uplink 457.418000 delivery 436016
+uplink 457.426000 delivery 436013
+uplink 457 7560 / 7560 = 100.0 % 134568 
+downlink 457 60 / 145500 = 0.0 % 60 
+downlink 457.517000 delivery 26
+uplink 457.828000 delivery 436404
+uplink 457.924000 delivery 436488
+uplink 458.406000 delivery 436959
+uplink 458 4536 / 4536 = 100.0 % 134568 
+downlink 458 60 / 130500 = 0.0 % 60 
+downlink 458.537000 delivery 22
+uplink 458.553000 delivery 437095
+uplink 458.711000 delivery 437241
+uplink 458.745000 delivery 437264
+uplink 458.820000 delivery 437326
+downlink 458.873000 delivery 25
+uplink 459.049000 delivery 437546
+uplink 459.352000 delivery 437838
+uplink 459.416000 delivery 437890
+uplink 459 10584 / 10584 = 100.0 % 136080 
+downlink 459 120 / 138000 = 0.1 % 120 
+downlink 459.672000 delivery 30
+uplink 459.920000 delivery 438383
+uplink 460.188000 delivery 438640
+uplink 460.434000 delivery 438875
+uplink 460 4536 / 4536 = 100.0 % 134568 
+downlink 460 60 / 151500 = 0.0 % 60 
+uplink 460.638000 delivery 439067
+downlink 460.686000 delivery 21
+uplink 461.104000 delivery 439523
+uplink 461.207000 delivery 439614
+uplink 461.250000 delivery 439646
+uplink 461.397000 delivery 439782
+uplink 461 7560 / 7560 = 100.0 % 134568 
+downlink 461 60 / 160500 = 0.0 % 60 
+uplink 461.463000 delivery 439837
+downlink 461.712000 delivery 23
+uplink 461.728000 delivery 440090
+uplink 462.068000 delivery 440419
+uplink 462 4536 / 4536 = 100.0 % 134628 
+downlink 462 60 / 144000 = 0.0 % 60 
+uplink 462.499000 delivery 440839
+uplink 462.661000 delivery 440990
+uplink 462.691000 delivery 441009
+uplink 462.900000 delivery 441206
+downlink 462.943000 delivery 25
+uplink 463.092000 delivery 441387
+uplink 463.246000 delivery 441528
+uplink 463.400000 delivery 441672
+uplink 463 10584 / 10584 = 100.0 % 134568 
+downlink 463 60 / 148500 = 0.0 % 60 
+uplink 463.757000 delivery 442019
+uplink 463.758000 delivery 442008
+downlink 463.879000 delivery 39
+uplink 464.070000 delivery 442309
+uplink 464.176000 delivery 442404
+uplink 464.331000 delivery 442547
+uplink 464.352000 delivery 442557
+uplink 464 9072 / 9072 = 100.0 % 134568 
+downlink 464 60 / 148500 = 0.0 % 60 
+uplink 464.546000 delivery 442740
+uplink 464.777000 delivery 442960
+downlink 464.889000 delivery 25
+uplink 464.942000 delivery 443113
+uplink 465 4536 / 4536 = 100.0 % 134568 
+downlink 465 60 / 148500 = 0.0 % 60 
+uplink 465.829000 delivery 443989
+uplink 465.932000 delivery 444082
+uplink 465.932000 delivery 444069
+uplink 466.018000 delivery 444144
+downlink 466.114000 delivery 22
+uplink 466.311000 delivery 444426
+uplink 466 7560 / 7560 = 100.0 % 136080 
+downlink 466 60 / 168000 = 0.0 % 60 
+uplink 466.536000 delivery 444641
+uplink 466.558000 delivery 444652
+uplink 466.626000 delivery 444707
+uplink 466.648000 delivery 444718
+downlink 467.146000 delivery 30
+uplink 467 6048 / 6048 = 100.0 % 134568 
+downlink 467 60 / 153000 = 0.0 % 60 
+uplink 467.454000 delivery 445514
+uplink 467.788000 delivery 445837
+uplink 468.035000 delivery 446072
+downlink 468.161000 delivery 21
+uplink 468.260000 delivery 446286
+uplink 468 6048 / 6048 = 100.0 % 134568 
+downlink 468 60 / 133500 = 0.0 % 60 
+uplink 468.834000 delivery 446849
+uplink 469.270000 delivery 447274
+downlink 469.286000 delivery 20
+uplink 469 3024 / 3024 = 100.0 % 134568 
+downlink 469 60 / 156000 = 0.0 % 60 
+uplink 469.631000 delivery 447623
+uplink 469.796000 delivery 447777
+uplink 469.827000 delivery 447796
+uplink 469.974000 delivery 447932
+uplink 469.981000 delivery 447928
+uplink 469.984000 delivery 447920
+uplink 470.318000 delivery 448242
+downlink 470.323000 delivery 33
+uplink 470.441000 delivery 448354
+uplink 470 12096 / 12096 = 100.0 % 134568 
+downlink 470 60 / 142500 = 0.0 % 60 
+uplink 470.664000 delivery 448567
+uplink 470.703000 delivery 448594
+uplink 470.937000 delivery 448817
+uplink 471.036000 delivery 448905
+uplink 471.216000 delivery 449074
+uplink 471.242000 delivery 449088
+uplink 471.271000 delivery 449106
+downlink 471.337000 delivery 23
+uplink 471.339000 delivery 449163
+uplink 471 12096 / 12096 = 100.0 % 134568 
+downlink 471 60 / 139500 = 0.0 % 60 
+uplink 471.565000 delivery 449378
+uplink 472.081000 delivery 449883
+uplink 472.238000 delivery 450027
+uplink 472 4536 / 4536 = 100.0 % 136080 
+downlink 472 0 / 159000 = 0.0 % 0 
+uplink 472.471000 delivery 450250
+downlink 472.568000 delivery 25
+uplink 472.948000 delivery 450715
+uplink 473.003000 delivery 450759
+uplink 473.181000 delivery 450927
+uplink 473 6048 / 6048 = 100.0 % 134568 
+downlink 473 60 / 150000 = 0.0 % 60 
+downlink 473.598000 delivery 31
+uplink 473.643000 delivery 451378
+uplink 473.833000 delivery 451556
+uplink 473.912000 delivery 451624
+uplink 474.322000 delivery 452023
+uplink 474 6048 / 6048 = 100.0 % 134568 
+downlink 474 60 / 145500 = 0.0 % 60 
+downlink 474.514000 delivery 26
+uplink 474.524000 delivery 452213
+uplink 475.045000 delivery 452723
+uplink 475 3024 / 3024 = 100.0 % 134568 
+downlink 475 60 / 169500 = 0.0 % 60 
+uplink 475.467000 delivery 453134
+uplink 475.638000 delivery 453294
+downlink 475.740000 delivery 23
+uplink 476.374000 delivery 454019
+uplink 476 4536 / 4536 = 100.0 % 134568 
+downlink 476 60 / 168000 = 0.0 % 60 
+uplink 476.553000 delivery 454186
+uplink 476.740000 delivery 454362
+downlink 476.761000 delivery 20
+uplink 476.857000 delivery 454468
+uplink 477.175000 delivery 454774
+uplink 477.371000 delivery 454959
+uplink 477 7560 / 7560 = 100.0 % 134568 
+downlink 477 60 / 147000 = 0.0 % 60 
+uplink 477.506000 delivery 455083
+uplink 477.593000 delivery 455159
+downlink 477.811000 delivery 45
+uplink 477.982000 delivery 455537
+uplink 478.395000 delivery 455938
+uplink 478 6048 / 6048 = 100.0 % 136080 
+downlink 478 60 / 159000 = 0.0 % 60 
+downlink 478.546000 delivery 22
+downlink 478.546000 delivery 22
+uplink 478.844000 delivery 456376
+downlink 478.918000 delivery 26
+uplink 478.991000 delivery 456513
+uplink 479.275000 delivery 456785
+uplink 479.415000 delivery 456914
+uplink 479 6048 / 6048 = 100.0 % 134568 
+downlink 479 412 / 163500 = 0.3 % 412 
+uplink 479.585000 delivery 457073
+uplink 479.817000 delivery 457293
+downlink 479.938000 delivery 22
+uplink 480.240000 delivery 457704
+uplink 480 4536 / 4536 = 100.0 % 134568 
+downlink 480 60 / 166500 = 0.0 % 60 
+uplink 480.545000 delivery 457999
+uplink 480.595000 delivery 458038
+downlink 480.965000 delivery 21
+uplink 481.084000 delivery 458516
+uplink 481.254000 delivery 458674
+uplink 481.317000 delivery 458726
+uplink 481 7560 / 7560 = 100.0 % 134568 
+downlink 481 60 / 184500 = 0.0 % 60 
+uplink 481.679000 delivery 459077
+uplink 482.144000 delivery 459531
+downlink 482.218000 delivery 28
+uplink 482.389000 delivery 459764
+uplink 482 4536 / 4536 = 100.0 % 134568 
+downlink 482 60 / 151500 = 0.0 % 60 
+uplink 482.519000 delivery 459883
+uplink 482.854000 delivery 460207
+uplink 482.974000 delivery 460316
+downlink 483.230000 delivery 31
+uplink 483.388000 delivery 460718
+uplink 483 6048 / 6048 = 100.0 % 136080 
+downlink 483 60 / 168000 = 0.0 % 60 
+uplink 483.978000 delivery 461296
+downlink 484.136000 delivery 22
+uplink 484 1512 / 1512 = 100.0 % 134568 
+downlink 484 60 / 156000 = 0.0 % 60 
+uplink 484.498000 delivery 461806
+uplink 484.773000 delivery 462070
+uplink 484.999000 delivery 462285
+uplink 485.048000 delivery 462323
+uplink 485.171000 delivery 462434
+uplink 485.212000 delivery 462460
+downlink 485.366000 delivery 24
+uplink 485 9072 / 9072 = 100.0 % 134568 
+downlink 485 60 / 163500 = 0.0 % 60 
+uplink 485.501000 delivery 462742
+uplink 485.937000 delivery 463166
+uplink 486.030000 delivery 463247
+uplink 486.305000 delivery 463512
+downlink 486.389000 delivery 23
+uplink 486 6048 / 6048 = 100.0 % 134568 
+downlink 486 60 / 153000 = 0.0 % 60 
+uplink 486.720000 delivery 463916
+uplink 487.068000 delivery 464252
+uplink 487.266000 delivery 464440
+uplink 487.337000 delivery 464499
+uplink 487.365000 delivery 464516
+downlink 487.412000 delivery 22
+uplink 487 7560 / 7560 = 100.0 % 134628 
+downlink 487 60 / 165000 = 0.0 % 60 
+uplink 487.727000 delivery 464867
+uplink 488.162000 delivery 465290
+uplink 488 3024 / 3024 = 100.0 % 134568 
+downlink 488 0 / 139500 = 0.0 % 0 
+uplink 488.526000 delivery 465643
+downlink 488.639000 delivery 20
+uplink 488.860000 delivery 465966
+uplink 489.145000 delivery 466239
+uplink 489 4536 / 4536 = 100.0 % 134568 
+downlink 489 60 / 159000 = 0.0 % 60 
+uplink 489.510000 delivery 466594
+downlink 489.561000 delivery 20
+uplink 489.875000 delivery 466947
+uplink 490.024000 delivery 467084
+uplink 490.275000 delivery 467326
+uplink 490 6048 / 6048 = 100.0 % 136080 
+downlink 490 60 / 165000 = 0.0 % 60 
+uplink 491.079000 delivery 468118
+uplink 491.121000 delivery 468148
+uplink 491.322000 delivery 468338
+uplink 491.335000 delivery 468340
+uplink 491 6048 / 6048 = 100.0 % 134568 
+downlink 491 0 / 156000 = 0.0 % 0 
+downlink 491.816000 delivery 23
+uplink 491.888000 delivery 468882
+uplink 492.208000 delivery 469190
+uplink 492.236000 delivery 469208
+uplink 492.377000 delivery 469337
+uplink 492 6048 / 6048 = 100.0 % 134628 
+downlink 492 60 / 139500 = 0.0 % 60 
+uplink 492.636000 delivery 469585
+uplink 492.779000 delivery 469717
+uplink 492.790000 delivery 469717
+downlink 492.872000 delivery 30
+uplink 493 4536 / 4536 = 100.0 % 134568 
+downlink 493 60 / 163500 = 0.0 % 60 
+uplink 493.483000 delivery 470398
+downlink 493.760000 delivery 21
+uplink 493.912000 delivery 470817
+uplink 494.062000 delivery 470955
+uplink 494.329000 delivery 471211
+uplink 494.450000 delivery 471320
+uplink 494 7560 / 7560 = 100.0 % 134568 
+downlink 494 60 / 148500 = 0.0 % 60 
+uplink 494.507000 delivery 471366
+uplink 494.682000 delivery 471531
+uplink 494.863000 delivery 471700
+downlink 495.092000 delivery 22
+uplink 495.143000 delivery 471969
+uplink 495.297000 delivery 472112
+uplink 495 7560 / 7560 = 100.0 % 136080 
+downlink 495 60 / 178500 = 0.0 % 60 
+uplink 495.655000 delivery 472458
+uplink 495.833000 delivery 472625
+uplink 495.972000 delivery 472753
+downlink 496.021000 delivery 30
+uplink 496.438000 delivery 473208
+uplink 496 6048 / 6048 = 100.0 % 134568 
+downlink 496 60 / 139500 = 0.0 % 60 
+uplink 496.522000 delivery 473281
+uplink 496.696000 delivery 473443
+downlink 497.036000 delivery 21
+uplink 497.259000 delivery 473995
+uplink 497 4536 / 4536 = 100.0 % 134568 
+downlink 497 60 / 160500 = 0.0 % 60 
+uplink 497.483000 delivery 474208
+uplink 498.003000 delivery 474716
+uplink 498.272000 delivery 474975
+uplink 498.372000 delivery 475063
+uplink 498 6048 / 6048 = 100.0 % 134568 
+downlink 498 0 / 180000 = 0.0 % 0 
+uplink 498.466000 delivery 475146
+uplink 498.873000 delivery 475542
+uplink 499.141000 delivery 475799
+uplink 499 4536 / 4536 = 100.0 % 134568 
+downlink 499 0 / 151500 = 0.0 % 0 
+uplink 499.520000 delivery 476166
+uplink 499.844000 delivery 476479
+uplink 500.105000 delivery 476729
+uplink 500.123000 delivery 476736
+uplink 500.362000 delivery 476963
+uplink 500 7560 / 7560 = 100.0 % 134568 
+downlink 500 0 / 147000 = 0.0 % 0 
+uplink 500.709000 delivery 477299
+uplink 500.721000 delivery 477300
+uplink 500.764000 delivery 477332
+uplink 501.023000 delivery 477580
+uplink 501 6048 / 6048 = 100.0 % 136080 
+downlink 501 0 / 157500 = 0.0 % 0 
+uplink 501.479000 delivery 478024
+uplink 501.643000 delivery 478172
+uplink 501.915000 delivery 478438
+uplink 502.189000 delivery 478701
+uplink 502.201000 delivery 478702
+uplink 502.404000 delivery 478893
+uplink 502 9072 / 9072 = 100.0 % 134568 
+downlink 502 0 / 153000 = 0.0 % 0 
+uplink 502.509000 delivery 478987
+uplink 502.541000 delivery 479008
+uplink 502.896000 delivery 479351
+uplink 503.136000 delivery 479580
+uplink 503 6048 / 6048 = 100.0 % 134568 
+downlink 503 0 / 166500 = 0.0 % 0 
+uplink 503.595000 delivery 480029
+uplink 503.932000 delivery 480355
+uplink 504.186000 delivery 480597
+uplink 504.247000 delivery 480646
+uplink 504.362000 delivery 480750
+uplink 504 7560 / 7560 = 100.0 % 134568 
+downlink 504 0 / 148500 = 0.0 % 0 
+uplink 504.476000 delivery 480853
+uplink 504.934000 delivery 481300
+uplink 505.138000 delivery 481493
+uplink 505.189000 delivery 481532
+uplink 505.337000 delivery 481669
+uplink 505 7560 / 7560 = 100.0 % 134568 
+downlink 505 0 / 169500 = 0.0 % 0 
+uplink 505.756000 delivery 482077
+uplink 506.061000 delivery 482371
+uplink 506.237000 delivery 482536
+uplink 506.353000 delivery 482641
+uplink 506 6048 / 6048 = 100.0 % 134568 
+downlink 506 0 / 180000 = 0.0 % 0 
+uplink 506.796000 delivery 483072
+uplink 506.954000 delivery 483219
+uplink 507.292000 delivery 483546
+uplink 507 4536 / 4536 = 100.0 % 136080 
+downlink 507 0 / 192000 = 0.0 % 0 
+uplink 507.858000 delivery 484101
+uplink 508.273000 delivery 484504
+uplink 508.446000 delivery 484667
+uplink 508 4536 / 4536 = 100.0 % 134568 
+downlink 508 0 / 153000 = 0.0 % 0 
+uplink 508.623000 delivery 484832
+downlink 508.681000 delivery 29
+downlink 508.681000 delivery 29
+uplink 508.776000 delivery 484974
+uplink 508.916000 delivery 485102
+uplink 509.054000 delivery 485229
+uplink 509.374000 delivery 485538
+uplink 509 7560 / 7560 = 100.0 % 134568 
+downlink 509 352 / 175500 = 0.2 % 352 
+uplink 509.558000 delivery 485710
+uplink 509.573000 delivery 485715
+uplink 509.685000 delivery 485816
+uplink 510.133000 delivery 486252
+uplink 510.179000 delivery 486287
+uplink 510.384000 delivery 486481
+uplink 510.434000 delivery 486520
+uplink 510 10584 / 10584 = 100.0 % 134568 
+downlink 510 0 / 147000 = 0.0 % 0 
+uplink 510.490000 delivery 486564
+uplink 510.673000 delivery 486736
+uplink 510.844000 delivery 486896
+uplink 510.883000 delivery 486923
+uplink 510.907000 delivery 486936
+uplink 511.011000 delivery 487028
+uplink 511.111000 delivery 487118
+uplink 511.141000 delivery 487137
+uplink 511 12096 / 12096 = 100.0 % 134568 
+downlink 511 0 / 159000 = 0.0 % 0 
+uplink 511.517000 delivery 487502
+uplink 511.731000 delivery 487705
+uplink 512.130000 delivery 488093
+uplink 512 4536 / 4536 = 100.0 % 134568 
+downlink 512 0 / 160500 = 0.0 % 0 
+uplink 512.760000 delivery 488711
+uplink 512.848000 delivery 488788
+uplink 513.087000 delivery 489015
+uplink 513.325000 delivery 489243
+uplink 513 6048 / 6048 = 100.0 % 136080 
+downlink 513 0 / 129000 = 0.0 % 0 
+uplink 513.791000 delivery 489698
+uplink 514.015000 delivery 489910
+uplink 514.334000 delivery 490218
+uplink 514 4536 / 4536 = 100.0 % 134568 
+downlink 514 0 / 168000 = 0.0 % 0 
+uplink 514.588000 delivery 490460
+uplink 514.699000 delivery 490560
+uplink 515.173000 delivery 491024
+uplink 515.415000 delivery 491254
+uplink 515 6048 / 6048 = 100.0 % 134568 
+downlink 515 0 / 165000 = 0.0 % 0 
+uplink 515.465000 delivery 491293
+uplink 515.704000 delivery 491520
+uplink 515.950000 delivery 491755
+uplink 516.023000 delivery 491817
+uplink 516.043000 delivery 491826
+uplink 516.265000 delivery 492036
+uplink 516 9072 / 9072 = 100.0 % 134568 
+downlink 516 0 / 160500 = 0.0 % 0 
+uplink 516.926000 delivery 492686
+uplink 517.191000 delivery 492940
+uplink 517.427000 delivery 493165
+uplink 517 4536 / 4536 = 100.0 % 136080 
+downlink 517 0 / 159000 = 0.0 % 0 
+uplink 517.564000 delivery 493291
+uplink 517.996000 delivery 493712
+uplink 518.067000 delivery 493772
+uplink 518.265000 delivery 493958
+uplink 518 6048 / 6048 = 100.0 % 133056 
+downlink 518 0 / 165000 = 0.0 % 0 
+uplink 518.731000 delivery 494413
+uplink 519.013000 delivery 494684
+uplink 519.267000 delivery 494926
+uplink 519.365000 delivery 495013
+uplink 519 6048 / 6048 = 100.0 % 134568 
+downlink 519 0 / 166500 = 0.0 % 0 
+uplink 519.629000 delivery 495266
+uplink 520.338000 delivery 495964
+uplink 520 3024 / 3024 = 100.0 % 136140 
+downlink 520 0 / 139500 = 0.0 % 0 
+uplink 520.807000 delivery 496421
+uplink 520.924000 delivery 496527
+uplink 520.989000 delivery 496582
+uplink 521.026000 delivery 496606
+uplink 521.256000 delivery 496825
+uplink 521.440000 delivery 496998
+uplink 521 9072 / 9072 = 100.0 % 134568 
+downlink 521 0 / 154500 = 0.0 % 0 
+uplink 521.636000 delivery 497184
+uplink 521.946000 delivery 497482
+uplink 522.120000 delivery 497645
+uplink 522.170000 delivery 497683
+uplink 522 6048 / 6048 = 100.0 % 134568 
+downlink 522 0 / 144000 = 0.0 % 0 
+uplink 522.622000 delivery 498125
+uplink 522.678000 delivery 498169
+uplink 523.037000 delivery 498517
+uplink 523.427000 delivery 498896
+uplink 523 6048 / 6048 = 100.0 % 134568 
+downlink 523 0 / 159000 = 0.0 % 0 
+uplink 523.640000 delivery 499097
+uplink 523.841000 delivery 499287
+uplink 523.903000 delivery 499338
+uplink 523.937000 delivery 499361
+uplink 524.002000 delivery 499414
+uplink 524.128000 delivery 499530
+uplink 524 9072 / 9072 = 100.0 % 134568 
+downlink 524 0 / 139500 = 0.0 % 0 
+uplink 524.475000 delivery 499866
+uplink 524.525000 delivery 499904
+uplink 524.862000 delivery 500230
+uplink 524.883000 delivery 500240
+uplink 525.056000 delivery 500401
+uplink 525.078000 delivery 500413
+uplink 525.144000 delivery 500467
+uplink 525 10584 / 10584 = 100.0 % 136140 
+downlink 525 0 / 162000 = 0.0 % 0 
+uplink 525.550000 delivery 500862
+uplink 525.802000 delivery 501103
+uplink 526.233000 delivery 501521
+uplink 526 4536 / 4536 = 100.0 % 134568 
+downlink 526 0 / 169500 = 0.0 % 0 
+uplink 526.554000 delivery 501831
+uplink 527.246000 delivery 502513
+uplink 527 3024 / 3024 = 100.0 % 134568 
+downlink 527 0 / 160500 = 0.0 % 0 
+uplink 527.523000 delivery 502779
+uplink 527.927000 delivery 503172
+uplink 528.026000 delivery 503260
+uplink 528.315000 delivery 503537
+uplink 528 6048 / 6048 = 100.0 % 134568 
+downlink 528 0 / 171000 = 0.0 % 0 
+uplink 528.965000 delivery 504176
+uplink 529.066000 delivery 504265
+uplink 529 3024 / 3024 = 100.0 % 134568 
+downlink 529 0 / 159000 = 0.0 % 0 
+uplink 529.487000 delivery 504675
+uplink 529.713000 delivery 504890
+uplink 529.812000 delivery 504978
+uplink 529.864000 delivery 505019
+uplink 530.068000 delivery 505211
+uplink 530.408000 delivery 505539
+uplink 530 9072 / 9072 = 100.0 % 134568 
+downlink 530 0 / 154500 = 0.0 % 0 
+uplink 530.952000 delivery 506073
+uplink 531.036000 delivery 506146
+uplink 531.367000 delivery 506466
+uplink 531.388000 delivery 506476
+uplink 531 6048 / 6048 = 100.0 % 136080 
+downlink 531 0 / 172500 = 0.0 % 0 
+uplink 531.822000 delivery 506899
+uplink 532.401000 delivery 507466
+uplink 532 3024 / 3024 = 100.0 % 134568 
+downlink 532 0 / 159000 = 0.0 % 0 
+uplink 533.132000 delivery 508186
+uplink 533.301000 delivery 508343
+uplink 533 3024 / 3024 = 100.0 % 134568 
+downlink 533 0 / 156000 = 0.0 % 0 
+uplink 533.584000 delivery 508616
+uplink 533.758000 delivery 508778
+uplink 533.920000 delivery 508929
+uplink 534.089000 delivery 509086
+uplink 534.145000 delivery 509131
+uplink 534 7560 / 7560 = 100.0 % 134568 
+downlink 534 0 / 181500 = 0.0 % 0 
+uplink 534.743000 delivery 509718
+uplink 534.767000 delivery 509732
+uplink 534.910000 delivery 509863
+uplink 534.982000 delivery 509924
+uplink 535 6048 / 6048 = 100.0 % 134568 
+downlink 535 0 / 165000 = 0.0 % 0 
+uplink 535.514000 delivery 510445
+uplink 535.722000 delivery 510641
+uplink 536.004000 delivery 510912
+uplink 536.121000 delivery 511018
+uplink 536.299000 delivery 511185
+uplink 536 7560 / 7560 = 100.0 % 134568 
+downlink 536 0 / 165000 = 0.0 % 0 
+uplink 536.851000 delivery 511725
+uplink 536.924000 delivery 511787
+uplink 537.029000 delivery 511881
+uplink 537 4536 / 4536 = 100.0 % 136080 
+downlink 537 0 / 145500 = 0.0 % 0 
+uplink 537.501000 delivery 512342
+uplink 537.515000 delivery 512345
+uplink 537.684000 delivery 512502
+uplink 537.983000 delivery 512790
+uplink 538 6048 / 6048 = 100.0 % 134568 
+downlink 538 0 / 153000 = 0.0 % 0 
+uplink 538.746000 delivery 513542
+downlink 538.806000 delivery 20
+downlink 538.809000 delivery 22
+uplink 539.008000 delivery 513793
+uplink 539.036000 delivery 513809
+uplink 539.315000 delivery 514077
+downlink 539.333000 delivery 28
+uplink 539 6048 / 6048 = 100.0 % 134568 
+downlink 539 412 / 148500 = 0.3 % 412 
+uplink 539.674000 delivery 514425
+uplink 539.927000 delivery 514667
+uplink 540.272000 delivery 515001
+downlink 540.358000 delivery 29
+uplink 540 4536 / 4536 = 100.0 % 134568 
+downlink 540 60 / 136500 = 0.0 % 60 
+uplink 540.535000 delivery 515252
+uplink 540.748000 delivery 515454
+uplink 540.818000 delivery 515513
+uplink 540.844000 delivery 515528
+uplink 541.089000 delivery 515761
+uplink 541.348000 delivery 516009
+downlink 541.382000 delivery 29
+uplink 541 9072 / 9072 = 100.0 % 134568 
+downlink 541 60 / 156000 = 0.0 % 60 
+downlink 541.538000 delivery 24
+uplink 541.687000 delivery 516337
+uplink 541.918000 delivery 516557
+uplink 542.003000 delivery 516631
+uplink 542.139000 delivery 516756
+uplink 542.287000 delivery 516892
+downlink 542.330000 delivery 20
+uplink 542 7560 / 7560 = 100.0 % 134568 
+downlink 542 120 / 154500 = 0.1 % 120 
+uplink 542.602000 delivery 517196
+uplink 542.652000 delivery 517235
+uplink 542.717000 delivery 517289
+uplink 542.762000 delivery 517322
+uplink 543.156000 delivery 517705
+downlink 543.325000 delivery 27
+uplink 543.379000 delivery 517917
+uplink 543 9072 / 9072 = 100.0 % 134568 
+downlink 543 60 / 183000 = 0.0 % 60 
+uplink 543.806000 delivery 518333
+uplink 544.141000 delivery 518657
+uplink 544.455000 delivery 518958
+uplink 544 4536 / 4536 = 100.0 % 136080 
+downlink 544 0 / 147000 = 0.0 % 0 
+uplink 544.557000 delivery 519050
+uplink 544.677000 delivery 519158
+uplink 544.816000 delivery 519285
+uplink 544.945000 delivery 519405
+uplink 545.341000 delivery 519789
+uplink 545 7560 / 7560 = 100.0 % 134568 
+downlink 545 0 / 181500 = 0.0 % 0 
+uplink 545.575000 delivery 520012
+uplink 545.697000 delivery 520123
+uplink 545.761000 delivery 520176
+uplink 546.321000 delivery 520725
+uplink 546 6048 / 6048 = 100.0 % 134568 
+downlink 546 0 / 162000 = 0.0 % 0 
+uplink 546.523000 delivery 520915
+uplink 546.793000 delivery 521174
+uplink 547.168000 delivery 521538
+uplink 547.394000 delivery 521752
+uplink 547 6048 / 6048 = 100.0 % 134568 
+downlink 547 0 / 172500 = 0.0 % 0 
+uplink 547.467000 delivery 521815
+uplink 547.607000 delivery 521942
+uplink 547.978000 delivery 522303
+uplink 548.025000 delivery 522339
+uplink 548.184000 delivery 522486
+uplink 548.400000 delivery 522691
+uplink 548 9072 / 9072 = 100.0 % 136080 
+downlink 548 0 / 160500 = 0.0 % 0 
+uplink 548.722000 delivery 523002
+uplink 549.148000 delivery 523416
+uplink 549 3024 / 3024 = 100.0 % 133056 
+downlink 549 0 / 153000 = 0.0 % 0 
+uplink 549.469000 delivery 523725
+uplink 549.541000 delivery 523787
+uplink 549.818000 delivery 524053
+uplink 550.220000 delivery 524444
+uplink 550.451000 delivery 524663
+uplink 550 7560 / 7560 = 100.0 % 136080 
+downlink 550 0 / 156000 = 0.0 % 0 
+uplink 550.511000 delivery 524713
+uplink 551.265000 delivery 525455
+uplink 551 3024 / 3024 = 100.0 % 134568 
+downlink 551 0 / 174000 = 0.0 % 0 
+uplink 551.873000 delivery 526052
+uplink 552.139000 delivery 526307
+uplink 552.403000 delivery 526560
+uplink 552 4536 / 4536 = 100.0 % 134568 
+downlink 552 0 / 166500 = 0.0 % 0 
+uplink 552.718000 delivery 526863
+uplink 553.105000 delivery 527239
+uplink 553.381000 delivery 527504
+uplink 553.416000 delivery 527528
+uplink 553 6048 / 6048 = 100.0 % 134628 
+downlink 553 0 / 162000 = 0.0 % 0 
+uplink 553.671000 delivery 527771
+uplink 553.984000 delivery 528073
+uplink 554.185000 delivery 528263
+uplink 554 4536 / 4536 = 100.0 % 134568 
+downlink 554 0 / 159000 = 0.0 % 0 
+uplink 554.546000 delivery 528613
+uplink 554.894000 delivery 528950
+uplink 555.207000 delivery 529252
+uplink 555.387000 delivery 529421
+uplink 555 6048 / 6048 = 100.0 % 134568 
+downlink 555 0 / 147000 = 0.0 % 0 
+uplink 555.799000 delivery 529821
+uplink 556.342000 delivery 530353
+uplink 556 3024 / 3024 = 100.0 % 134568 
+downlink 556 0 / 162000 = 0.0 % 0 
+uplink 556.673000 delivery 530673
+uplink 556.771000 delivery 530759
+uplink 557.001000 delivery 530978
+uplink 557 4536 / 4536 = 100.0 % 136080 
+downlink 557 0 / 145500 = 0.0 % 0 
+uplink 557.757000 delivery 531723
+uplink 557.924000 delivery 531878
+uplink 558.108000 delivery 532051
+uplink 558.346000 delivery 532279
+uplink 558.447000 delivery 532367
+uplink 558 7560 / 7560 = 100.0 % 134628 
+downlink 558 0 / 153000 = 0.0 % 0 
+uplink 558.923000 delivery 532833
+uplink 559.335000 delivery 533234
+uplink 559 3024 / 3024 = 100.0 % 134568 
+downlink 559 0 / 160500 = 0.0 % 0 
+uplink 560.044000 delivery 533932
+uplink 560.160000 delivery 534036
+uplink 560.438000 delivery 534303
+uplink 560 4536 / 4536 = 100.0 % 134568 
+downlink 560 0 / 165000 = 0.0 % 0 
+uplink 560.883000 delivery 534737
+uplink 561.255000 delivery 535097
+uplink 561.428000 delivery 535259
+uplink 561 4536 / 4536 = 100.0 % 134568 
+downlink 561 0 / 157500 = 0.0 % 0 
+uplink 561.622000 delivery 535442
+uplink 562.130000 delivery 535938
+uplink 562.243000 delivery 536040
+uplink 562.243000 delivery 536030
+uplink 562 6048 / 6048 = 100.0 % 136080 
+downlink 562 0 / 150000 = 0.0 % 0 
+uplink 562.474000 delivery 536250
+uplink 562.579000 delivery 536343
+uplink 562.771000 delivery 536524
+uplink 562.830000 delivery 536572
+uplink 563.034000 delivery 536764
+uplink 563.165000 delivery 536884
+uplink 563.291000 delivery 536999
+uplink 563 10584 / 10584 = 100.0 % 134568 
+downlink 563 0 / 157500 = 0.0 % 0 
+uplink 563.620000 delivery 537316
+uplink 563.905000 delivery 537590
+uplink 564.263000 delivery 537937
+uplink 564 4536 / 4536 = 100.0 % 134568 
+downlink 564 0 / 198000 = 0.0 % 0 
+uplink 564.497000 delivery 538160
+uplink 564.861000 delivery 538513
+uplink 565.068000 delivery 538709
+uplink 565.127000 delivery 538757
+uplink 565 6048 / 6048 = 100.0 % 134568 
+downlink 565 0 / 175500 = 0.0 % 0 
+uplink 565.484000 delivery 539102
+uplink 565.857000 delivery 539464
+uplink 566.015000 delivery 539611
+uplink 566.051000 delivery 539636
+uplink 566.195000 delivery 539769
+uplink 566.434000 delivery 539996
+uplink 566 9072 / 9072 = 100.0 % 136080 
+downlink 566 0 / 166500 = 0.0 % 0 
+uplink 566.798000 delivery 540348
+uplink 566.970000 delivery 540508
+uplink 566.992000 delivery 540520
+uplink 567.057000 delivery 540575
+uplink 567 6048 / 6048 = 100.0 % 134568 
+downlink 567 0 / 180000 = 0.0 % 0 
+uplink 567.725000 delivery 541231
+uplink 567.867000 delivery 541362
+uplink 568.202000 delivery 541686
+uplink 568 4536 / 4536 = 100.0 % 134568 
+downlink 568 0 / 156000 = 0.0 % 0 
+uplink 568.689000 delivery 542162
+downlink 568.941000 delivery 22
+downlink 568.941000 delivery 21
+uplink 568.964000 delivery 542426
+uplink 569 3024 / 3024 = 100.0 % 134568 
+downlink 569 352 / 159000 = 0.2 % 352 
+uplink 569.512000 delivery 542962
+uplink 570.056000 delivery 543495
+uplink 570.076000 delivery 543503
+uplink 570.448000 delivery 543864
+uplink 570 6048 / 6048 = 100.0 % 134568 
+downlink 570 0 / 175500 = 0.0 % 0 
+uplink 570.860000 delivery 544265
+uplink 571.108000 delivery 544502
+uplink 571.180000 delivery 544562
+uplink 571.303000 delivery 544675
+uplink 571.343000 delivery 544703
+uplink 571 7560 / 7560 = 100.0 % 134568 
+downlink 571 0 / 151500 = 0.0 % 0 
+uplink 571.627000 delivery 544977
+uplink 571.677000 delivery 545015
+uplink 571.869000 delivery 545196
+uplink 572.313000 delivery 545629
+uplink 572 6048 / 6048 = 100.0 % 134568 
+downlink 572 0 / 168000 = 0.0 % 0 
+uplink 572.559000 delivery 545863
+uplink 572.963000 delivery 546256
+uplink 573.401000 delivery 546682
+uplink 573 4536 / 4536 = 100.0 % 136080 
+downlink 573 0 / 150000 = 0.0 % 0 
+uplink 573.752000 delivery 547023
+uplink 574.173000 delivery 547432
+uplink 574 3024 / 3024 = 100.0 % 134628 
+downlink 574 0 / 175500 = 0.0 % 0 
+uplink 574.453000 delivery 547701
+uplink 574.799000 delivery 548036
+uplink 574.931000 delivery 548157
+uplink 575.173000 delivery 548388
+uplink 575.263000 delivery 548467
+uplink 575 7560 / 7560 = 100.0 % 134568 
+downlink 575 0 / 160500 = 0.0 % 0 
+downlink 575.577000 delivery 23
+uplink 575.579000 delivery 548771
+uplink 575.763000 delivery 548944
+uplink 575.868000 delivery 549038
+uplink 575.938000 delivery 549097
+uplink 576.095000 delivery 549243
+uplink 576.383000 delivery 549519
+uplink 576 9072 / 9072 = 100.0 % 134568 
+downlink 576 60 / 147000 = 0.0 % 60 
+uplink 576.530000 delivery 549655
+uplink 576.708000 delivery 549822
+uplink 577.068000 delivery 550171
+uplink 577.251000 delivery 550342
+uplink 577.419000 delivery 550498
+uplink 577 7560 / 7560 = 100.0 % 134568 
+downlink 577 0 / 174000 = 0.0 % 0 
+uplink 577.851000 delivery 550920
+uplink 577.927000 delivery 550984
+uplink 578.300000 delivery 551347
+uplink 578.413000 delivery 551448
+uplink 578 6048 / 6048 = 100.0 % 134568 
+downlink 578 0 / 147000 = 0.0 % 0 
+uplink 578.619000 delivery 551643
+uplink 578.780000 delivery 551793
+uplink 579.170000 delivery 552171
+uplink 579 4536 / 4536 = 100.0 % 134568 
+downlink 579 0 / 174000 = 0.0 % 0 
+uplink 579.661000 delivery 552651
+uplink 579.777000 delivery 552756
+uplink 580.239000 delivery 553207
+uplink 580 4536 / 4536 = 100.0 % 136080 
+downlink 580 0 / 171000 = 0.0 % 0 
+uplink 580.713000 delivery 553669
+uplink 580.806000 delivery 553751
+uplink 581.058000 delivery 553991
+uplink 581.116000 delivery 554038
+uplink 581 6048 / 6048 = 100.0 % 134568 
+downlink 581 0 / 148500 = 0.0 % 0 
+uplink 581.517000 delivery 554429
+uplink 581.823000 delivery 554723
+uplink 581.896000 delivery 554785
+uplink 581.964000 delivery 554842
+uplink 582.153000 delivery 555020
+uplink 582.420000 delivery 555276
+uplink 582 9072 / 9072 = 100.0 % 134568 
+downlink 582 0 / 175500 = 0.0 % 0 
+uplink 582.546000 delivery 555391
+uplink 582.674000 delivery 555507
+uplink 582.907000 delivery 555728
+uplink 583.096000 delivery 555906
+uplink 583.162000 delivery 555962
+uplink 583 7560 / 7560 = 100.0 % 134568 
+downlink 583 0 / 156000 = 0.0 % 0 
+uplink 583.523000 delivery 556312
+uplink 583.761000 delivery 556537
+uplink 584.210000 delivery 556976
+uplink 584.378000 delivery 557132
+uplink 584 6048 / 6048 = 100.0 % 136080 
+downlink 584 0 / 142500 = 0.0 % 0 
+uplink 584.986000 delivery 557730
+uplink 585.212000 delivery 557945
+uplink 585 3024 / 3024 = 100.0 % 133056 
+downlink 585 0 / 154500 = 0.0 % 0 
+uplink 585.794000 delivery 558516
+uplink 585.843000 delivery 558553
+uplink 586.121000 delivery 558820
+downlink 586.164000 delivery 32
+uplink 586.336000 delivery 559024
+uplink 586.366000 delivery 559042
+uplink 586 7560 / 7560 = 100.0 % 136080 
+downlink 586 60 / 165000 = 0.0 % 60 
+uplink 586.885000 delivery 559550
+uplink 587.269000 delivery 559923
+uplink 587 3024 / 3024 = 100.0 % 134568 
+downlink 587 0 / 156000 = 0.0 % 0 
+uplink 587.462000 delivery 560105
+uplink 587.758000 delivery 560389
+uplink 588.093000 delivery 560713
+uplink 588.369000 delivery 560978
+uplink 588 6048 / 6048 = 100.0 % 134628 
+downlink 588 0 / 174000 = 0.0 % 0 
+uplink 588.894000 delivery 561492
+uplink 589.049000 delivery 561636
+uplink 589.207000 delivery 561782
+uplink 589.418000 delivery 561982
+uplink 589 6048 / 6048 = 100.0 % 134568 
+downlink 589 0 / 172500 = 0.0 % 0 
+uplink 589.584000 delivery 562137
+uplink 589.592000 delivery 562134
+uplink 589.764000 delivery 562295
+uplink 589.780000 delivery 562299
+uplink 589.922000 delivery 562430
+uplink 589.932000 delivery 562429
+uplink 590.310000 delivery 562796
+uplink 590.310000 delivery 562784
+uplink 590.381000 delivery 562855
+uplink 590 12156 / 12156 = 100.0 % 134568 
+downlink 590 0 / 159000 = 0.0 % 0 
+uplink 590.586000 delivery 563048
+uplink 590.749000 delivery 563201
+uplink 591.043000 delivery 563484
+uplink 591.132000 delivery 563562
+uplink 591.349000 delivery 563767
+uplink 591 7560 / 7560 = 100.0 % 136080 
+downlink 591 0 / 144000 = 0.0 % 0 
+uplink 591.934000 delivery 564341
+uplink 592.236000 delivery 564632
+uplink 592.364000 delivery 564749
+uplink 592 4536 / 4536 = 100.0 % 133056 
+downlink 592 0 / 178500 = 0.0 % 0 
+uplink 592.491000 delivery 564865
+uplink 592.600000 delivery 564962
+uplink 592.606000 delivery 564957
+uplink 593 4536 / 4536 = 100.0 % 136080 
+downlink 593 0 / 162000 = 0.0 % 0 
+uplink 593.492000 delivery 565832
+uplink 593.758000 delivery 566087
+uplink 593.773000 delivery 566091
+uplink 594.223000 delivery 566529
+uplink 594 6048 / 6048 = 100.0 % 134568 
+downlink 594 0 / 192000 = 0.0 % 0 
+uplink 594.473000 delivery 566767
+uplink 594.783000 delivery 567067
+uplink 594.844000 delivery 567117
+uplink 595.076000 delivery 567338
+uplink 595.215000 delivery 567465
+uplink 595 7560 / 7560 = 100.0 % 134628 
+downlink 595 0 / 157500 = 0.0 % 0 
+uplink 595.556000 delivery 567795
+uplink 595.589000 delivery 567817
+uplink 595.613000 delivery 567830
+uplink 596.035000 delivery 568240
+uplink 596 6048 / 6048 = 100.0 % 134568 
+downlink 596 0 / 154500 = 0.0 % 0 
+uplink 596.537000 delivery 568731
+uplink 596.634000 delivery 568817
+uplink 596.666000 delivery 568838
+uplink 597.269000 delivery 569430
+uplink 597 6048 / 6048 = 100.0 % 134568 
+downlink 597 0 / 163500 = 0.0 % 0 
+uplink 597.595000 delivery 569744
+uplink 597.962000 delivery 570100
+uplink 598 3024 / 3024 = 100.0 % 136080 
+downlink 598 0 / 154500 = 0.0 % 0 
+uplink 599.070000 delivery 571196
+downlink 599.073000 delivery 26
+downlink 599.073000 delivery 26
+uplink 599 1512 / 1512 = 100.0 % 134568 
+downlink 599 352 / 175500 = 0.2 % 352 
+uplink 599.479000 delivery 571594
+uplink 599.627000 delivery 571731
+uplink 600.113000 delivery 572206
+uplink 600.349000 delivery 572431
+uplink 600 6048 / 6048 = 100.0 % 134568 
+downlink 600 0 / 150000 = 0.0 % 0 
+uplink 600.569000 delivery 572640
+uplink 600.972000 delivery 573030
+uplink 601.179000 delivery 573227
+uplink 601.234000 delivery 573271
+uplink 601.248000 delivery 573274
+uplink 601 7560 / 7560 = 100.0 % 134568 
+downlink 601 0 / 160500 = 0.0 % 0 
+uplink 601.484000 delivery 573499
+uplink 601.857000 delivery 573860
+uplink 602.231000 delivery 574223
+uplink 602.311000 delivery 574293
+uplink 602.431000 delivery 574400
+uplink 602 7560 / 7560 = 100.0 % 134568 
+downlink 602 0 / 163500 = 0.0 % 0 
+uplink 602.695000 delivery 574652
+uplink 602.997000 delivery 574942
+uplink 603.259000 delivery 575195
+uplink 603.362000 delivery 575287
+uplink 603 6048 / 6048 = 100.0 % 134568 
+downlink 603 0 / 135000 = 0.0 % 0 
+uplink 603.715000 delivery 575629
+uplink 604.197000 delivery 576098
+uplink 604.246000 delivery 576137
+uplink 604 4536 / 4536 = 100.0 % 136080 
+downlink 604 0 / 141000 = 0.0 % 0 
+uplink 604.769000 delivery 576649
+uplink 604.932000 delivery 576801
+uplink 605.063000 delivery 576921
+uplink 605.257000 delivery 577103
+uplink 605.294000 delivery 577129
+uplink 605 7560 / 7560 = 100.0 % 134568 
+downlink 605 0 / 151500 = 0.0 % 0 
+uplink 605.599000 delivery 577424
+uplink 606.227000 delivery 578040
+uplink 606 3024 / 3024 = 100.0 % 134568 
+downlink 606 0 / 172500 = 0.0 % 0 
+uplink 606.775000 delivery 578576
+uplink 607.194000 delivery 578984
+uplink 607.360000 delivery 579139
+uplink 607 4536 / 4536 = 100.0 % 134568 
+downlink 607 0 / 154500 = 0.0 % 0 
+uplink 607.689000 delivery 579457
+uplink 607.793000 delivery 579550
+uplink 607.979000 delivery 579724
+uplink 608.103000 delivery 579838
+uplink 608 6048 / 6048 = 100.0 % 134568 
+downlink 608 0 / 165000 = 0.0 % 0 
+uplink 608.475000 delivery 580198
+uplink 608.707000 delivery 580419
+uplink 609.075000 delivery 580776
+uplink 609.199000 delivery 580889
+uplink 609.321000 delivery 580999
+uplink 609 7560 / 7560 = 100.0 % 136080 
+downlink 609 0 / 148500 = 0.0 % 0 
+uplink 609.604000 delivery 581271
+downlink 609.632000 delivery 25
+uplink 610.113000 delivery 581768
+uplink 610 3024 / 3024 = 100.0 % 134568 
+downlink 610 60 / 156000 = 0.0 % 60 
+uplink 610.501000 delivery 582145
+uplink 610.744000 delivery 582377
+uplink 611.107000 delivery 582728
+uplink 611.362000 delivery 582973
+uplink 611.444000 delivery 583044
+uplink 611 7560 / 7560 = 100.0 % 134568 
+downlink 611 0 / 156000 = 0.0 % 0 
+uplink 611.583000 delivery 583171
+uplink 611.741000 delivery 583318
+uplink 611.789000 delivery 583355
+uplink 612 4536 / 4536 = 100.0 % 134568 
+downlink 612 0 / 138000 = 0.0 % 0 
+uplink 612.767000 delivery 584321
+uplink 612.954000 delivery 584497
+uplink 613.108000 delivery 584640
+uplink 613 4536 / 4536 = 100.0 % 134568 
+downlink 613 0 / 163500 = 0.0 % 0 
+uplink 613.473000 delivery 584994
+uplink 613.504000 delivery 585014
